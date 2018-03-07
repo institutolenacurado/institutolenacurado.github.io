@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-23_1124",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,7 +30,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 182,
+    "uniqCompNum": 183,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -998,7 +998,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -1263,7 +1263,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -1864,7 +1864,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -2139,7 +2139,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -2447,7 +2447,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -3227,7 +3227,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -3300,13 +3300,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3418,17 +3418,17 @@
           },
           "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
           "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 32 693 589 | hcurado@gmail.com",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "vivermelhordefinitivamente@gmail.com",
+            "action": "hcurados@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Obrigada por preencher este nosso formulário!"
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Subrenome, Nome*"
               },
               "email": {
                 "visible": true,
@@ -3438,11 +3438,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "TLM*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço que procura."
               }
             }
           },
@@ -3487,7 +3487,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -3749,7 +3749,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -4146,7 +4146,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -4411,7 +4411,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -4614,7 +4614,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -4845,7 +4845,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -5245,7 +5245,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -5448,7 +5448,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -5651,7 +5651,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
@@ -5854,7 +5854,7 @@
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
           "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
-          "text3": "<strong>Link</strong><br>\n<a class=\"text-primary\" href=\"page7.html\" target=\"_blank\">Newsletter</a><br>\n<a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">Download for Mac</a><br><a class=\"text-primary\" href=\"http://www.vivermelhordefinitivamente.com/\" target=\"_blank\">N</a>ova pagina",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
           ],
