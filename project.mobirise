@@ -312,7 +312,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coach-helena-curado-workshops3-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/empresario-300x300.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
