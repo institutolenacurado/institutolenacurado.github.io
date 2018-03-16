@@ -482,7 +482,7 @@ h6,
 }
 #content1-4c P {
   color: #ffffff;
-  text-align: center;
+  text-align: left;
   font-size: 18px;
 }
 #msg-box8-4z .mbr-section-title,
@@ -1940,6 +1940,9 @@ h6,
 #content1-59 P {
   color: #ffffff;
   font-size: 20px;
+}
+#content1-5c P {
+  color: #ffffff;
 }
 #form1-5a .form-control-label {
   color: #232323;

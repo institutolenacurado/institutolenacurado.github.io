@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 191,
+    "uniqCompNum": 195,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -178,7 +178,7 @@
             "paddingBottom": 1,
             "bgColor": "#2e2e2e"
           },
-          "text": "<p><b>Nossa Missão</b> é o Foco no ser humano e nos resultados reais!\n</p><p><b>O Instituto Lena Curado</b> é uma das principais companhias de Coaching e de treinamento a nível internacional para o Desenvolvimento humano como por exemplo o<b> Auto Conhecimento</b>.\n</p><p>Nos somos uma Equipa Experiente, um Instituto de Excelência. <b>O ILC</b> é um centro autorizado para oferecer treinamentos de <b>Lena Curado</b> no Reino Unido, França, Espanha e Portugal, também proporciona Coaches para todos os níveis Pessoal e Empresal de todo o mundo. Estamos comprometidos em contribuir com o desenvolvimento em seu máximo nível, para que atinjam patamares que nem eles acreditam que seja possível alcançar.\n</p><p><br></p>",
+          "text": "<p><b>Nossa Missão</b> é o Foco no ser humano e nos resultados reais!\n</p><p><b>O Instituto Lena Curado</b> é uma das principais companhias de Coaching e de treinamento a nível internacional para o Desenvolvimento humano como por exemplo o<b> Auto Conhecimento</b>.\n</p><p>Nos somos uma Equipa Experiente, um Instituto de Excelência. <b>O ILC</b> é um centro autorizado para oferecer treinamentos de </p><p><b>Lena Curado</b> no Reino Unido, França, Espanha e Portugal, também proporciona Coaches para todos os níveis Pessoal e Empresal de todo o mundo. Estamos comprometidos em contribuir com o desenvolvimento em seu máximo nível, para que atinjam patamares que nem eles acreditam que seja possível alcançar.\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -187,7 +187,7 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "18px"
             }
           }
@@ -218,7 +218,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "BENVINDOS \n<div>AO\n</div><div>INSTITUTO LENA CURADO</div>",
-          "text": "<p>Instituto para o Desenvolvimento\n&nbsp;<span style=\"font-size: 1.07rem;\">Pessoal e Empresarial&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">Paixão é a nossa Razão</span></p>",
+          "text": "<p>Instituto para o Desenvolvimento\n&nbsp;<span style=\"font-size: 1.07rem;\">Pessoal e Empresarial&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">\"Paixão é a nossa Razão\"</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -5994,7 +5994,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/instituto-dedesenvolvimentohumano-coaching-o-poder-esta-em-mim-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -6006,8 +6006,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "O PODER ESTA EM MIM",
-          "text": "TRANSFORME O MUNDO CONECANDO POR VOCE<br>COM<br>PROGRAMACAO NEUROLISGUISTICA",
+          "title": "\"O PODER ESTA EM MIM\"",
+          "text": "TRANSFORME O MUNDO COMEÇANDO POR VOCÊ\n<br>COM\n<br>PROGRAMAÇÃO NEUROLINGUÍSTICA",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -6041,7 +6041,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/cansado-de-insegurana-angustias-frustraes-e-medos-640x426.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -6055,7 +6058,7 @@
               "size": 0
             }
           },
-          "title": "Cancado de inseguranca, angustias, frustacoes e medos para alcancar o que deseja?.",
+          "title": "Cansado de insegurança, angustias, frustrações e medos para alcançar o que deseja?",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -6095,7 +6098,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/voc-pode-mudar-isso-agora-640x392.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -6109,7 +6115,7 @@
               "size": 0
             }
           },
-          "title": "Voce pade mudar isso agora? Comece a ser dono da sua vida.",
+          "title": "Você pode mudar isso agora!<br>Comece a ser dono da sua vida.",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -6129,7 +6135,7 @@
             "paddingBottom": 1,
             "bgColor": "#2e2e2e"
           },
-          "text": "<p><b>WORKSHOP/PALESTRA \"O PODER ESTA EM MIM\"</b></p><p>com Helena Curado</p><p>Vila Real Santo Antonio | Data a anunciar</p><p><br></p><p>Sente-se Insegura/o?\n</p><p>Falta-lhe Coragem?\n</p><p>Fica a remoer no Passado?\n</p><p>Perdeu a Alegria de Viver?</p><p><br></p><p><b>ENTÃO, ESTE É O WORKSHOP/PALESTRA CERTA PARA SI!</b></p><p><b><br></b></p><p><b>O QUE É O CURSO?</b></p><p><br></p><p>Workshop 2h - Palestra 4h</p><p>•\tWorkshop e Aula Aberta Gratuita: 17/Março/2018 (sábado) das 09h00 às 13h00. \n</p><p>&nbsp; &nbsp;INSCREVA-SE AQUI PARA A AULA ABERTA GRATUITA!</p><p><br></p><p>Você sabia que, de acordo com uma pesquisa realizada pela faculdade de medicina do hospital Johns Hopkins (Baltimore, Maryland, Estados Unidos), 90% das pessoas não mudam? Esta pesquisa foi realizada com milhares de pessoas que passaram por situações críticas de saúde, incluindo cirurgias cardíacas. Este número é muito expressivo!</p><p><br></p><p> \n</p><p>Mas... por que será que isto acontece? Por que as tantas pessoas não mudam, nem mesmo em situações críticas? E se não é nada fácil mudar, como poderemos mudar o mundo à nossa volta?</p><p><br></p><p> \n</p><p>\n</p><p>Venha conhecer gratuitamente esta fantástica ferramenta de transformação pessoal capaz de mudar este número radicalmente. Trata-se da PNL - Programação Neurolinguística; com ela podemos fazer novas escolhas em nossas vidas, mais poderosas, que transformam o mundo à nossa volta começando por nós mesmos!</p><p><br></p><p> \n</p><p>\n</p><p>Esta é a ferramenta estudada e praticada pelas pessoas de maior sucesso da atualidade: JK Rowling, Oprah Winfrey, Tiger Woods, David Beckham, Lewis Hamilton, Gustavo Kuerten, Anthony Robbins, entre tantos outros.</p><p><br></p><p> \n</p><p>\n</p><p>Além do workshop que lhe apresentará as diversas técnicas que fazem parte da PNL, você terá a oportunidade de participar de uma AULA GRATUITA e sentir na pele o que ela é capaz de promover em um ser humano!</p><p><br></p><p>A PNL, Programação Neuro Linguística, assenta no estudo da excelência humana, visa a\n</p><p>comunicação eficiente entre pessoas e consigo próprias, com o objetivo de conquistarem a\n</p><p>excelência e o desenvolvimento pessoal e profissional.</p><p><br></p><p>\n</p><p>\n</p><p>Este workshop é o primeiro mergulho para a descoberta do seu mundo interior e clarificação\n</p><p>daquilo que quer e de como chegar lá. Os primeiros passos para sair da zona de conforto,\n</p><p>parar de procrastinar, e cuidar da sua vida.</p><p><br></p><p><b>O PROGRAMA:</b></p><p><b><br></b></p><p>No final vai do workshop vai obter:\n</p><p>• Mais conhecimento na área da PNL;\n</p><p>• Maior facilidade em perceber como o seu cérebro funciona;\n</p><p>• Maior capacidade para transformar os seus resultados;\n</p><p>• Maior facilidade em fazer uma mudança na sua vida;\n</p><p>• Maior compreensão acerca de como sabota os seus resultados;\n</p><p>• Melhor capacidade para ajudar outras pessoas;\n</p><p>• Maior entusiasmo e energia pela sua vida;\n</p><p>• E muito, muito mais…</p><p><br></p><p>\n</p><p>•\tConteúdo a ser apresentado: \n</p><p>- O que é a Programação Neurolinguística (PNL) \n</p><p>- Como mudar nossa história pessoal \n</p><p>- Os Níveis Neurológicos para mudanças profundas e permanentes e soluções de problemas \n</p><p>- O que são Submodalidades – a \"linguagem cerebral\" que cura traumas e fobias \n</p><p>- Crenças e Valores pessoais – como os mudamos para impulsionar nossas vidas \n</p><p>- Demonstrações de técnicas / Aula gratuita&nbsp;</p><p><br></p><p><b>INFORMAÇÕES:</b></p><p><b><br></b></p><p><b>\n</b></p><p>Turmas reduzidas.\n</p><p>Carga horária: 60 horas.\n</p><p>Modalidade do curso: Presencial\n</p><p>Certificação:\n</p><p>O certificado é fornecido para o cursista que tiver, no mínimo, 75% de presença nas aulas.\n</p><p>Critério de Avaliação:\n</p><p>Avaliação constante durante a aplicação do curso, a partir de feedbacks e depoimentos dos cursistas.\n</p><p>Método/Metodologia:\n</p><p>\n</p><p>Neste curso fundamentado na Teoria da Inteligência Multifocal e método Augusto Cury (teórico-vivencial-reflexivo), você terá:\n</p><p>\n</p><p>Reflexões e discussões a respeito dos temas abordados;\n</p><p>Dinâmicas e vivências que constituem valiosos instrumentos educacionais utilizados para trabalhar o que é ensinado;\n</p><p>Filmes, vídeos, textos e artigos que ilustram e ampliam os assuntos abordados;\n</p><p>Vídeos explicativos com o Dr. Augusto Cury, destacando os principais tópicos do tema.</p><p><br></p><p><b>Como vai decorrer este Workshop/Palestra?</b></p><p>Este Workshop tem um carácter essencialmente vivencial, decorrendo num ambiente descontraído, rico em dinâmicas e práticas de integração dos conteúdos transmitidos.\n</p><p>\n</p><p><b>Nota:</b> Os participantes não têm que expor qualquer informação acerca da sua vida pessoal durante o Workshop</p><p><br></p><p><b>A QUEM SE DESTINA:\n</b></p><p>\n</p><p>Todos aqueles que queiram iniciar-se no campo da PNL de uma forma vivencial e integrada.\n</p><p>Todos os que sintam dificuldade em definir e/ou atingir objectivos de sucesso pessoal.\n</p><p>Todos os que procurem expandir o seu potencial como seres humanos e encontrar um rumo na sua vida.\n</p><p>Todos os que precisem libertar-se de padrões destrutivos de comportamento.\n</p><p>Todos os que precisem ganhar auto-confiança e reforçar a auto-estima.</p><p><br></p><p><b>BENEFÍCIOS\n</b></p><p><br></p><p>Com este curso você conseguirá:\n</p><p>Maior senso de realização e de felicidade.\n</p><p>Mais motivação e disposição.\n</p><p>Aumentar seu equilíbrio, energia e produtividade.\n</p><p>Criar e manter relações saudáveis e produtivas com as pessoas, formar e liderar equipes.\n</p><p>Aumentar a qualidade de vida e do bem-estar emocional.\n</p><p>Gerenciar pensamentos.\n</p><p>Administrar emoções.\n</p><p>Controlar a ansiedade.\n</p><p>Aumentar sua satisfação pessoal e profissional.\n</p><p>Administrar conflitos.\n</p><p>Melhorar sua capacidade de comunicação.\n</p><p>Alcançar resoluções com mais desenvoltura, perspicácia e segurança.\n</p><p>Entendimento sobre o comportamento do outro.</p><p><br></p><p><b>Como se pode inscrever? \n</b></p><p>\n</p><p>Contacte directamente o Instituto pelo 291 762 343 ou através do email sulog@sulog.pt\n</p><p>\n</p><p>Para mais informações contacte: 92 901 2021 ou 939 864 867 ou envie email para geral@comunicacaomaiseficaz.com\n</p><p>Investimento – 120,00€  + IVA\n</p><p>Data: 23, 24, 25 e 26 de Janeiro\n</p><p>\n</p><p>Local: Funchal, Hotel Pestana Palms (Ao lado do Lido)\n</p><p>\n</p><p>Duração: 16 horas (das 18h30 às 22h30)</p><p><br></p><p><b>INFORMAÇÕES PRÁTICAS</b></p><p>Data, local, horário e conteúdo:\n</p><p>•\tData do evento: 17 de março, sábado\n</p><p>•\tHorário: das 09h00 às 13h00\n</p><p>•\tLocal: Pizzaria Villa Roma - Rua Serra de Juréa, 215 - Tatuapé - São Paulo (próximo ao metrô Tatuapé)\n</p><p>•\tInvestimento opcional: 1kg de alimento não perecível</p><p><br></p><p><b>Promoções para inscrições antecipadas\n</b></p><p>Inscrições até um mês antes – 127,00€ com oferta do nosso livro Viver sem Ansiedade (manual deste Workshop)\n</p><p>Inscrições de 16 a 28 de Maio – 127€\n</p><p>Inscrições até 15 dias antes – 147€</p><p><br></p><p><b>FACILIDADE DE PAGAMENTO\n PALESTRA</b></p><p>Inscrição com 60,00€\n</p><p>Restante valor até à data do Workshop</p><p><br></p><p>Este é um grande passo para a transformação pessoal e, quem sabe, a possibilidade de uma nova jornada profissional. \n</p><p>Faça sua escolha, saia da rotina e venha passar um dia diferente e marcante!&nbsp;</p><p><br></p>",
+          "text": "<p><b>WORKSHOP/TREINAMENTO &nbsp;\"O PODER ESTA EM MIM\"</b></p><p>com Helena Curado</p><p>Vila Real Santo Antonio | Data a anunciar</p><p><br></p><p>Sente-se Insegura/o?\n</p><p>Falta-lhe Coragem?\n</p><p>Fica a remoer no Passado?\n</p><p>Perdeu a Alegria de Viver?</p><p><br></p><p><b>ENTÃO, ESTE É O WORKSHOP/COACHING CERTA PARA SI!</b></p><p><b><br></b></p><p><b>O QUE É O CURSO?</b></p><p><br></p><p>Workshop 2h - Coaching de grupo 4h - Coaching individual 1h</p><p><br></p><p><b>O PROGRAMA:</b></p><p><b><br></b></p><p>No final vai do workshop vai obter:\n</p><p>• Mais conhecimento na área da PNL;\n</p><p>• Maior facilidade em perceber como o seu cérebro funciona;\n</p><p>• Maior capacidade para transformar os seus resultados;\n</p><p>• Maior facilidade em fazer uma mudança na sua vida;\n</p><p>• Maior compreensão acerca de como sabota os seus resultados;\n</p><p>• Melhor capacidade para ajudar outras pessoas;\n</p><p>• Maior entusiasmo e energia pela sua vida;\n</p><p>• E muito, muito mais…</p><p><br></p><p>\n</p><p>•\tConteúdo a ser apresentado: \n</p><p>- O que é a Programação Neurolinguística (PNL) \n</p><p>- Como mudar nossa história pessoal \n</p><p>- Os Níveis Neurológicos para mudanças profundas e permanentes e soluções de problemas \n</p><p>- O que são Submodalidades – a \"linguagem cerebral\" que cura traumas e fobias \n</p><p>- Crenças e Valores pessoais – como os mudamos para impulsionar nossas vidas \n</p><p>- Demonstrações de técnicas / Aula gratuita&nbsp;</p><p><br></p><p><b>INFORMAÇÕES:</b></p><p><b><br></b></p><p><b>\n</b></p><p>Turmas reduzidas.\n</p><p>Carga horária: 60 horas.\n</p><p>Modalidade do curso: Presencial\n</p><p>Certificação:\n</p><p>O certificado é fornecido para o cursista que tiver, no mínimo, 75% de presença nas aulas.\n</p><p>Critério de Avaliação:\n</p><p>Avaliação constante durante a aplicação do curso, a partir de feedbacks e depoimentos dos cursistas.\n</p><p>Método/Metodologia:\n</p><p>\n</p><p>Neste curso fundamentado na Teoria da Inteligência Multifocal e método Augusto Cury (teórico-vivencial-reflexivo), você terá:\n</p><p>\n</p><p>Reflexões e discussões a respeito dos temas abordados;\n</p><p>Dinâmicas e vivências que constituem valiosos instrumentos educacionais utilizados para trabalhar o que é ensinado;\n</p><p>Filmes, vídeos, textos e artigos que ilustram e ampliam os assuntos abordados;\n</p><p>Vídeos explicativos com o Dr. Augusto Cury, destacando os principais tópicos do tema.</p><p><br></p><p><b>Como vai decorrer este Workshop/Coaching?</b></p><p>Este Workshop tem um carácter essencialmente vivencial, decorrendo num ambiente descontraído, rico em dinâmicas e práticas de integração dos conteúdos transmitidos.\n</p><p>\n</p><p><b>Nota:</b> Os participantes não têm que expor qualquer informação acerca da sua vida pessoal durante o Workshop</p><p><br></p><p><b>A QUEM SE DESTINA:\n</b></p><p>\n</p><p>Todos aqueles que queiram iniciar-se no campo da PNL de uma forma vivencial e integrada.\n</p><p>Todos os que sintam dificuldade em definir e/ou atingir objectivos de sucesso pessoal.\n</p><p>Todos os que procurem expandir o seu potencial como seres humanos e encontrar um rumo na sua vida.\n</p><p>Todos os que precisem libertar-se de padrões destrutivos de comportamento.\n</p><p>Todos os que precisem ganhar auto-confiança e reforçar a auto-estima.</p><p><br></p><p><b>BENEFÍCIOS\n</b></p><p><br></p><p>Com este curso você conseguirá:\n</p><p>Maior senso de realização e de felicidade.\n</p><p>Mais motivação e disposição.\n</p><p>Aumentar seu equilíbrio, energia e produtividade.\n</p><p>Criar e manter relações saudáveis e produtivas com as pessoas, formar e liderar equipes.\n</p><p>Aumentar a qualidade de vida e do bem-estar emocional.\n</p><p>Gerenciar pensamentos.\n</p><p>Administrar emoções.\n</p><p>Controlar a ansiedade.\n</p><p>Aumentar sua satisfação pessoal e profissional.\n</p><p>Administrar conflitos.\n</p><p>Melhorar sua capacidade de comunicação.\n</p><p>Alcançar resoluções com mais desenvoltura, perspicácia e segurança.\n</p><p>Entendimento sobre o comportamento do outro.</p><p><br></p><p><b>Como se pode inscrever? \n</b></p><p>\n</p><p>Contacte directamente o Instituto pelo 291 762 343 ou através do email sulog@sulog.pt\n</p><p>\n</p><p>Para mais informações contacte: 92 901 2021 ou 939 864 867 ou envie email para geral@comunicacaomaiseficaz.com\n</p><p>Investimento – 120,00€  + IVA\n</p><p>Data: 23, 24, 25 e 26 de Janeiro\n</p><p>\n</p><p>Local: Funchal, Hotel Pestana Palms (Ao lado do Lido)\n</p><p>\n</p><p>Duração: 16 horas (das 18h30 às 22h30)</p><p><br></p><p><b>INFORMAÇÕES PRÁTICAS</b></p><p>Data, local, horário e conteúdo:\n</p><p>•\tData do evento: 17 de março, sábado\n</p><p>•\tHorário: das 09h00 às 13h00\n</p><p>•\tLocal: Pizzaria Villa Roma - Rua Serra de Juréa, 215 - Tatuapé - São Paulo (próximo ao metrô Tatuapé)\n</p><p>•\tInvestimento opcional: 1kg de alimento não perecível</p><p><br></p><p><b>Promoções para inscrições antecipadas\n</b></p><p>Inscrições até um mês antes – 127,00€ com oferta do nosso livro Viver sem Ansiedade (manual deste Workshop)\n</p><p>Inscrições de 16 a 28 de Maio – 127€\n</p><p>Inscrições até 15 dias antes – 147€</p><p><br></p><p><b>FACILIDADE DE PAGAMENTO\n PALESTRA</b></p><p>Inscrição com 60,00€\n</p><p>Restante valor até à data do Workshop</p><p><br></p><p>Este é um grande passo para a transformação pessoal e, quem sabe, a possibilidade de uma nova jornada profissional. \n</p><p>Faça sua escolha, saia da rotina e venha passar um dia diferente e marcante!&nbsp;</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -6141,6 +6147,50 @@
               "font-size": "20px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">•\tWorkshop de Aula Aberta Gratuita: 17/Março/2018 (sábado) das 09h30 às 13h00.\n<br>   INSCREVA-SE AQUI PARA A AULA ABERTA GRATUITA!</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-5b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<p>Você sabia que, de acordo com uma pesquisa realizada pela faculdade de medicina do hospital Johns Hopkins (Baltimore, Maryland, Estados Unidos), 90% das pessoas não mudam? Esta pesquisa foi realizada com milhares de pessoas que passaram por situações críticas de saúde, incluindo cirurgias cardíacas. Este número é muito expressivo!</p><p><br></p><p>\n</p><p>\n</p><p>Mas... por que será que isto acontece? Por que as tantas pessoas não mudam, nem mesmo em situações críticas? E se não é nada fácil mudar, como poderemos mudar o mundo à nossa volta?</p><p><br></p><p>\n</p><p>\n</p><p>Venha conhecer gratuitamente esta fantástica ferramenta de transformação pessoal capaz de mudar este número radicalmente. </p><p><br></p><p>Trata-se da PNL - Programação Neurolinguística; com ela podemos fazer novas escolhas em nossas vidas, mais poderosas, que transformam o mundo à nossa volta começando por nós mesmos!</p><p><br></p><p>\n</p><p>\n</p><p>Esta é a ferramenta estudada e praticada pelas pessoas de maior sucesso da atualidade: JK Rowling, Oprah Winfrey, Tiger Woods, David Beckham, Lewis Hamilton, Gustavo Kuerten, Anthony Robbins, entre tantos outros.</p><p><br></p><p>\n</p><p>\n</p><p>Além do workshop que lhe apresentará as diversas técnicas que fazem parte da PNL, você terá a oportunidade de participar de uma AULA GRATUITA e sentir na pele o que ela é capaz de promover em um ser humano!</p><p><br></p><p>\n</p><p>\n</p><p>A PNL, Programação Neuro Linguística, assenta no estudo da excelência humana, visa a\n</p><p>comunicação eficiente entre pessoas e consigo próprias, com o objetivo de conquistarem a\n</p><p>excelência e o desenvolvimento pessoal e profissional.</p><p><br></p><p>\n</p><p>\n</p><p>Este workshop é o primeiro mergulho para a descoberta do seu mundo interior e clarificação\n</p><p>daquilo que quer e de como chegar lá. Os primeiros passos para sair da zona de conforto,\n</p><p>parar de procrastinar, e cuidar da sua vida.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5c",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">• Coaching de 8 Secções: 4/11/18/25 de Maio e 1/8/15/22 Junho (sábados) das 09h30 às 13h00.\n<br> INSCREVA-SE AQUI PARA AS SECÇÕES DE COACHING DE GRUPO</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-5e"
         },
         {
           "_params": {
