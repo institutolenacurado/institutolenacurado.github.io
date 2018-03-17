@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-23_1124",
-    "currentPage": "page16.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -618,7 +618,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/palestrante-e-coache-helena-curado-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/instituto-dedesenvolvimentohumano-coaching-o-poder-esta-em-mim-1920x1080.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -665,13 +665,13 @@
               "active": true
             }
           },
-          "title1": "VMD-DEA<br>EXCELÊNCIA NO ATENDIMENTO AO CLIENTE&nbsp;",
-          "subtitle1": "<b>\"10 ESTRELAS NO ATENDIMENTO\"</b>",
+          "title1": "VMD-ADE<br>EXCELÊNCIA NO ATENDIMENTO AO CLIENTE&nbsp;",
+          "subtitle1": "<b>\"ATENDIMENTO 10 ESTRELAS\"</b>",
           "caption1": "<b>Coaching individual ou Grupos Empresariais.</b><br>Com o aumento cada vez maior da concorrência no setor hoteleiro e restauracao, sentiu-se a\nnecessidade de criar mecanismos de atração e retenção de clientes. <br>Você sabia que em uma escala de 0 a 10 a média de excelência no atendimento antes de um treinamento é de apenas 3,6, subindo para 7,6 após a capacitação?<br>",
-          "title2": "VMD-SDV<br>MOTIVAÇÃO PESSOAL",
-          "subtitle2": "<b>\"SOU DONO/A DA MINHA VIDA\"</b>",
+          "title2": "VMD-PEM<br>MOTIVAÇÃO PESSOAL",
+          "subtitle2": "<b>\"O PODER ESTA EM MIM\"</b>",
           "caption2": "<b>Coaching individual ou Grupos Empresariais.</b><br>Falta de autoconfiança? \n<br>Procura equilíbrio? Medo de falhar ?\n<br>Sente-se perdida ou presa a obstáculos?&nbsp;<br>Quem procura a motivação pretende despertar\n<br>recursos interiores para aumentar as suas\n<br>possibilidades de alcançar excelentes resultados\n<br>em todas as áreas das suas vidas.&nbsp;<br><br>",
-          "title3": "VMD-TQQ<br>GESTÃO DE TEMPO",
+          "title3": "VMD-TPQ<br>GESTÃO DE TEMPO",
           "subtitle3": "<b>\"TEMPO PARA QUE TE QUERO\"</b>",
           "caption3": "<b>Grupos Empresariais e Pessoas Anónimos.</b>\n<br>Através de Palestras, workshops ou Treinamentos vamos adquirir conhecimento para ganhar mais qualidade de vida e dinheiro através da melhor gestão do tempo, pois tempo e dinheiro é saúde.",
           "title4": "VMD-AOT<br>RECICLAGEM DE CONHECIMENTOS",
