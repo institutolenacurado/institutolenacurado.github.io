@@ -174,8 +174,8 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
+            "paddingTop": "7",
+            "paddingBottom": "7",
             "bgColor": "#2e2e2e"
           },
           "text": "<p><b>Nossa Missão</b> é o Foco no ser humano e nos resultados reais!\n</p><p><b>O Instituto Lena Curado</b> é uma das principais companhias de Coaching e de treinamento a nível internacional para o Desenvolvimento humano como por exemplo o<b> Auto Conhecimento</b>.\n</p><p>Nos somos uma Equipa Experiente, um Instituto de Excelência. <b>O ILC</b> é um centro autorizado para oferecer treinamentos de </p><p><b>Lena Curado</b> no Reino Unido, França, Espanha e Portugal, também proporciona Coaches para todos os níveis Pessoal e Empresal de todo o mundo. Estamos comprometidos em contribuir com o desenvolvimento em seu máximo nível, para que atinjam patamares que nem eles acreditam que seja possível alcançar.\n</p><p><br></p>",
@@ -202,8 +202,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/2048x1536-daisies-green-background-2000x1500.jpg",
             "parallax": true,
@@ -391,8 +391,8 @@
             "ShowTexts": true,
             "showButtons": false,
             "iconsBgColor": "@primaryColor",
-            "paddingTop": "3",
-            "paddingBottom": "0",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -543,8 +543,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "7",
+            "paddingBottom": "7",
             "bgColor": "#2e2e2e"
           },
           "title": "A QUEM SE DESTINA?",
