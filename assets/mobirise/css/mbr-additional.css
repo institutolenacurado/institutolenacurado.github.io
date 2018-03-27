@@ -1952,6 +1952,9 @@ h6,
 #form1-5a .form-control-label {
   color: #232323;
 }
+#form1-5a SMALL {
+  color: #efefef;
+}
 #contacts1-54 P {
   color: #607e41;
 }
