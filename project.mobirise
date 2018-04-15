@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-02-23_1124",
-    "currentPage": "page16.html",
+    "name": "Lena Curado Institute",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 199,
+    "uniqCompNum": 215,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -104,14 +104,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -178,7 +178,7 @@
             "paddingBottom": "7",
             "bgColor": "#2e2e2e"
           },
-          "text": "<p><b>Nossa Missão</b> é o Foco no ser humano e nos resultados reais!\n</p><p><b>O Instituto Lena Curado</b> é uma das principais companhias de Coaching e de treinamento a nível internacional para o Desenvolvimento humano como por exemplo o<b> Auto Conhecimento</b>.\n</p><p>Nos somos uma Equipa Experiente, um Instituto de Excelência. <b>O ILC</b> é um centro autorizado para oferecer treinamentos de </p><p><b>Lena Curado</b> no Reino Unido, França, Espanha e Portugal, também proporciona Coaches para todos os níveis Pessoal e Empresal de todo o mundo. Estamos comprometidos em contribuir com o desenvolvimento em seu máximo nível, para que atinjam patamares que nem eles acreditam que seja possível alcançar.\n</p><p><br></p>",
+          "text": "<p><b>Nossa Missão</b> é o Foco no ser humano e nos resultados reais!</p><p><br></p><p>\n</p><p>\n</p><p><b>O Instituto Lena Curado</b> é uma das principais companhias de Coaching e de treinamento a nível internacional para o Desenvolvimento humano como por exemplo o Auto Conhecimento. Somos uma Equipa Experiente, um Instituto de Excelência.</p><p><br></p><p>\n</p><p>\n</p><p><b>O ILC</b> é um centro que oferece seus treinamentos na América, Suíça, Luxemburgo, Reino Unido, França, Espanha e Portugal, através de uma vasta equipa de profissionais, Coaches para todos os níveis Pessoal e Empresarial. Estamos comprometidos em contribuir com o desenvolvimento em seu máximo nível visando o completo bem-estar físico, mental e social atingindo assim patamares de excelência de vida.</p>",
           "_tags": [
             "Theme"
           ],
@@ -188,7 +188,9 @@
             "P": {
               "color": "#ffffff",
               "text-align": "left",
-              "font-size": "18px"
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },
@@ -196,6 +198,11 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_params": {
@@ -218,7 +225,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "BENVINDOS \n<div>AO\n</div><div>INSTITUTO LENA CURADO</div>",
-          "text": "<p>Instituto para o Desenvolvimento\n&nbsp;<span style=\"font-size: 1.07rem;\">Pessoal e Empresarial&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">\"Paixão é a nossa Razão\"</span></p>",
+          "text": "<p>Desenvolvimento PESSOAL, PROFISSIONAL E EMPRESARIAL\n</p><p>\"PAIXÃO É A NOSSO RAZÃO\"</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1042,7 +1049,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "04-Sucesso em vendas com motivacao",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1100,14 +1107,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1307,7 +1314,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Mentoria, Consulting ou Coaching",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1365,14 +1372,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1908,7 +1915,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Consulturia Pro",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -2080,14 +2087,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2183,7 +2190,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Palestra Costumizada",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -2241,14 +2248,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2491,7 +2498,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Como trabalhamos?",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2549,14 +2556,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3271,7 +3278,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Contato",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -3329,14 +3336,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3531,7 +3538,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Newsletter",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -3589,14 +3596,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3793,7 +3800,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "01-Tempo para que te quero",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3851,14 +3858,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4190,7 +4197,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Palestra, Workshop ou Treimanento",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -4248,14 +4255,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4455,7 +4462,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "03-Transacao da carreira",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4513,14 +4520,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4658,7 +4665,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "02 - Atendimento 10 Estrelas",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -4716,14 +4723,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -4889,7 +4896,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "VOCÊ?",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4947,14 +4954,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -5289,7 +5296,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "05-Chefia e Liderança",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -5347,14 +5354,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -5492,7 +5499,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "06-Etiqueta social",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -5550,14 +5557,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -5695,7 +5702,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "07-Sistema Kanban",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -5753,14 +5760,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -5898,7 +5905,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Eu tenho o poder",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -5956,14 +5963,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2e2e2e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -6338,6 +6345,505 @@
             }
           },
           "_anchor": "footer1-55"
+        }
+      ]
+    },
+    "page17.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Worshops Agenda",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#607e41!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2e2e2e",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" target=\"_blank\">01 - Tempo para que te quero</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\" target=\"_blank\">Workshops</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/instituto-dedesenvolvimentohumano-1-800x100.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/coach-helena-curado-workshops3-1698x1131.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "WORKSHOPS",
+          "text": "<span style=\"font-style: normal;\"><b>Contrate um Workshop para sua Empresa seu colaboradores,</b></span><br><span style=\"font-style: normal;\"><b>na sua Associação, para a sua Escola, &nbsp;<br>na sua Cidade ou no seu Evento. \n<br>Possibilidade de customização do conteúdo da sessão de workshop.</b></span><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACTAR AGORA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-5m",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            ".mbr-section-title": {
+              "color": "#2e2e2e"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "25px"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Agenda do mês de Maio 2018",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5p"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>PLANO DA ACÇÃO (METODOLOGIA VMD)\n</b></p><p><b>Cronograma / Plano de sessão/ Programa)\n</b></p><p><b>CICLO DE WORKSHOPS TEMÁTICOS&nbsp;</b></p><p><b><br></b></p><p>Data: 04 a 25 de Maio de 2018</p><p>Horário: 10h00 – 12h00 e/ou 14h00 – 16h00\n</p><p>N.º Horas: 8 horas (4 Workshops temáticos de 2 horas)\n</p><p>Local: Vila Real de Santo António</p><p><br></p><p><b>Workshops para apresentação do programa de coaching através da Metodologia VMD</b></p><p><b>TEMAS</b></p><p>Workshop 1: <b>\"Conheço o meu corpo, sou saudável\"</b>&nbsp;– 04 de Maio, das 10h00-12h00\n</p><p>Workshop 2: <b>\"Tenho postura, tenho PODER\"</b>&nbsp;- 11 de Maio, das 14h00-16h00\n</p><p>Workshop 3: <b>\"Âncoras inibidoras\"</b>&nbsp;– 18 de Maio, das 10h00-12h00\n</p><p>Workshop 4: <b>\"Ajustar a bússola\"&nbsp;</b>- 25 de Maio, das 14h00-16h00</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5q",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "CONTEÚDOS PROGRAMÁTICOS",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5w"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "MÉTODO VMD - Workshop<br>\"Conheço o meu corpo, sou saudável\"",
+          "subtitle1": "04-05-2018&nbsp;",
+          "caption1": "<b>Workshop 1 -&nbsp;</b>Saúde através dos sentimentos<br>Venha conhecer mais sobre o seu corpo e mente, eles não suportam muitos sentimentos ruins, e encontram formas de manifestar os problemas por meio de doenças.<br><br>Duração: 2h\n<br>Workshop falado em português\n<br>Local: Vila Real de Santo António &nbsp;<br>04 de Maio 2018 (Sábado)&nbsp;- 10h00 às 12h00",
+          "title2": "MÉTODO VMD - Workshop<br>\"Tenho postura, tenho PODER\"",
+          "subtitle2": "11-05-2018",
+          "caption2": "<b>Workshop 2 -&nbsp;</b>Auto-estima e Autoconhecimento<br>Para elevar a sua auto-estima é muito importante desenvolver o autoconhecimento, parar de se comprar com as outras pessoas, parar de se cobrar tanto e focar em seus potenciais.<br><br>Duração: 2h \n<br>Workshop falado em português \n<br>Local: Vila Real de Santo António  \n<br>04 de Maio 2018 (Sábado) - 10h00 às 12h00<br>",
+          "title3": "MÉTODO VMD - Workshop<br>\"Âncoras inibidoras\"",
+          "subtitle3": "18-05-2018",
+          "caption3": "<b>Workshop 3 -&nbsp;</b>Crenças limitantes&nbsp;<br>Nossas crenças governam e determinam nossas ações, e muitas pessoas acreditam que são os fatores externos que controlam suas vidas. Toda mudança pessoal tem início na crença e não no comportamento.<br><br>Duração: 2h \n<br>Workshop falado em português \n<br>Local: Vila Real de Santo António \n<br>04 de Maio 2018 (Sábado) - 10h00 às 12h00<br>",
+          "title4": "MÉTODO VMD - Workshop<br>\"Ajustar a bússola\"",
+          "subtitle4": "25-05-2018",
+          "caption4": "<b>Workshop 4 - </b>Proposito e vida<br>Neste Workshop ajudamos as pessoas a descobrirem<br>seus talentos!&nbsp;O que é que eu vim fazer nesse mundo? Será que eu tenho um propósito maior, além de comer, beber e dormir?\n<br><br>Duração: 2h \n<br>Workshop falado em português \n<br>Local: Vila Real de Santo António  \n<br>04 de Maio 2018 (Sábado) - 10h00 às 12h00<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-printer mbr-iconfont mbr-iconfont-btn\"></span>Imprima o seu manual</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-printer mbr-iconfont mbr-iconfont-btn\"></span>Imprima o seu manual</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-printer mbr-iconfont mbr-iconfont-btn\"></span>Imprima o seu manual</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-printer mbr-iconfont mbr-iconfont-btn\"></span>Imprima o seu manual</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5o",
+          "_styles": {
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>ATIVIDADES DAS SESSÕES</b></p><p><b><br></b></p><p>1) Boas Vindas\n</p><p>2) Apresentação da Formação e História do Método VMD e os seus Benefícios na saúde física, mental, emocional e espiritual)\n</p><p>3) Apresentação da missão do Instituto Lena Curado e do Método VMD - Terapia de coaching em grupo.\n</p><p>4) Apresentação dos participantes\n</p><p>5) Apresentação dos objectivos do workshop (Missão, Método).</p><p>6) Definindo a avaliação baseada em métodos mistos.</p><p>5) Dinamica: Meditacao \"Gratidao\"</p><p>\n</p><p>7) Exposição: Momento de reflexão conjunta sobre o tema do dia.</p><p>8) Exposição: Conteúdo do tema do dia.</p><p>\n</p><p>9) Dinamicas: Organização dos formandos para dinâmica de grupos.</p><p>8) Dinamica: Meditacao \"Gratidao\"</p><p>10) Conclusão: Conclusão do workshop reforçando a ideia do conteúdo do workshop, Informação sobre o próximo workshop.\n</p><p>11) Despedida e com entrega de lembrança simbólica de presença.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5v",
+          "_styles": {
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>GERAL</b></p><p>Entidade Formadora: IDHLC-VMD</p><p>Formador(es): </p><p>Master Coach Lena Curado</p><p>Área de Formação:</p><p>Desenvolvimento Humano</p><p><br></p><p><br></p><p><br></p><p><b>MODALIDADE DA FORMAÇÃO</b></p><p>Inicial\n</p><p>Aperfeiçoamento\n</p><p>Formação Contínua/Atualização</p><p><br></p><p><b>RECURSOS MATERIAIS E PEDAGÓGICOS</b></p><p>Projecção de Power Point, com recurso ao Projector de Vídeo;\n</p><p>Flip Chart\n</p><p>Manual de apoio</p><p>Inclui: Manuais em Pdf </p><p>(Imprima o seu manual que esta por baixo de cada sessão de workshop)\n</p><p> \n</p><p> \n</p>",
+          "text2": "<p><b>DESTINATÁRIOS</b></p><p>Todas as pessoas que pretendam reaprenderem a se amar incondicionalmente.\n</p><p>Pessoas que queiram aprofundar conhecimentos sobre os Benefícios da auto-ajuda. Requisitos Mínimos Não aplicável.</p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><b>FORMA DE ORGANIZAÇÃO DA FORMAÇÃO</b></p><p>Presencial</p><p><br></p><p><br></p><p><b>CERTIFICADO</b></p><p>Certificado de presença no final dos 4 workshops e só para quem frequentou 80% das sessões.</p><p><br></p><p> \n</p>",
+          "text3": "<p><b>OBJETIVOS\n</b></p><p>Gerais e específicos: No final da acção os participantes vão ser capazes de reconhecer mais e melhores competências na gestão económica das organizações.</p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><br></p><p><b>MÉTODOS PEDAGÓGICOS</b>&nbsp;</p><p>Afirmativo\n</p><p>Interrogativo\n</p><p>Ativo</p><p><br></p><p><b>LOCAL</b></p><p>Empresas</p><p>Escolas</p><p>Universidades</p><p>Eventos</p><p>Acossiacoes</p><p>Abertas ao publico</p><p> \n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-5t",
+          "_styles": {
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>MÉTODOS DE AVALIAÇÃO</b></p><p><b>Avaliação aos Formandos:</b> Não aplicável\n</p><p><b>Avaliação da Formação: </b>Preenchimento do Questionário de Avaliação Formando, pelos formandos, no final da ação de formação;\n</p><p>Questionário de Avaliação Formador, a preencher no final da mesma pelo formador.</p><p><br></p><p><b>CONDIÇÕES DE PARTICIPAÇÃO\n</b></p><p><br></p><p><b>ASSIDUIDADE\n</b></p><p>Após a ação de formação será atribuído um Certificado aos formandos que assistam a pelo menos 80% da sua duração total; no caso,\n</p><p>de ações de formação que contemplem avaliação aos formandos, mantém-se a mesma regra da assiduidade (80%), mas o formando\n</p><p>terá de concluir a ação de formação com aproveitamento.\n</p><p>Este Certificado será entregue ao formando desde que cumpridas as condições de participação.</p><p><br></p><p><b>CANCELAMENTO DAS AÇÕES DE FORMAÇÃO\n</b></p><p>A participação no curso está dependente da confirmação, por escrito, da sua realização e disponibilidade de lugares.\n</p><p>A ACIF-CCIM reserva o direito de cancelar as ações de formação até três dias antes do início das mesmas, comprometendo-se, neste\n</p><p>caso, a devolver a importância cobrada.\n</p><p><br></p><p><b>SELEÇÃO DE FORMANDOS\n</b></p><p>No processo de seleção será dada prioridade a: 1º) cumprimento dos requisitos mínimos divulgados no programa; 2º) associados da\n</p><p>ACIF-CCIM; 3º) ordem de chegada das inscrições.\n</p><p><b>NOTA:</b> Numa 1ª fase, serão aceites apenas 2 inscrições por entidade. Posteriormente, havendo vagas, poderão ser aceites mais\n</p><p>inscrições.&nbsp;</p><p><br></p><p><b>PAGAMENTO E CANCELAMENTO DAS INSCRIÇÕES\n</b></p><p><br></p><p><b>PREÇO POR INSCRIÇÃO (Inscricoes limitadas)</b></p><p><b><br></b></p><p><b>Valor das Sessoes de apresentacao da \"Metodologia VMD\"</b></p><p>(1kg de alimentos nao pereciveis)\n</p><p>Os alimentos entregues sao para a associacao da localidade onde e menistrado do workshop.</p><p><br></p><p>Faça o workshop Introdução completo (4 sessoes) do Treinamento VMD-PNL e ganhe desconto de 10% no Programa total de Coaching avançado \"Viver Melhor Definitivamente com PNL\".</p><p>Garantia de 100% de satisfação ou seu dinheiro de volta, ao final do curso.</p><p><b><br></b></p><p><b>Valor das sessoes para empresas ou convivios particulares</b></p><p>Um Workshop – € 40,00\n</p><p>Quatro Workshop – €140,00</p><p><br></p><p>1) Todos os custos de participação indicados estão isentos de IVA (cfr. Art. 9º do CIVA);&nbsp;</p><p><b><br></b></p><p>2) Desconto de 10% para as entidades com 3 ou mais inscrições na mesma ação (não acumulável), desde que a ação não seja objeto\n</p><p>de financiamento pelo FSE ou outro Fundo;</p><p><br></p><p>\n</p><p>3) O pagamento das inscrições deve ser feito em dinheiro, multibanco, por cheque à ordem da ACIF-CCIM ou por transferência\n</p><p>bancária, através do NIB 0038 0001 21369876771 12 (Por favor, enviar por fax: 291206868 ou por e-mail: geral@acif-ccim.pt o\n</p><p>comprovativo da transferência);</p><p><br></p><p>\n</p><p>4) As inscrições deverão ser pagas até 5 dias úteis antes do início da ação de formação; Caso não seja regularizado o pagamento\n</p><p>dentro do prazo estipulado, a ACIF-CCIM reserva o direito de anular a respetiva inscrição;</p><p><br></p><p>\n</p><p>5) Desistências\n</p><p>a) As desistências deverão ser comunicadas à ACIF-CCIM, por escrito;\n</p><p>b) Nas desistências comunicadas até 5 dias úteis antes do início da ação de formação, será devolvido o valor pago;\n</p><p>c) Nas desistências comunicadas entre o 4º e o último dia útil da data de início da ação de formação, será devolvido 50% do\n</p><p>valor pago;\n</p><p>d) As desistências não comunicadas ou comunicadas a partir da data de início da ação de formação, não serão alvo de\n</p><p>qualquer reembolso.&nbsp;</p><p><br></p><p><b>MAIS INFORMAÇÕES</b></p><p>Inscrições pelo email consulting@lenacurado.com\n</p><p>Mais informação pelo watsap +34 963852741</p><p><br></p><p><b>Traga um ou mais amigos</b></p><p><b>VAGAS LIMITADAS!</b></p><p><b><br></b></p><p><b>Momentos que farão uma grande diferença no mundo interno das pessoas e que as ajudarão a direcionar a energia emocional para realizar seus SONHOS, e acima de tudo, serem saudáveis e FELIZES.\n</b></p><p><b>\n</b></p><p><b>Conecte-se direto com VOCÊ.</b></p><p> \n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5x",
+          "_styles": {
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "QUERO ME INSCREVER",
+          "subtitle": "Entre em contato e AGENDE WORKSHOP OU sua Consultoria VIP:  (+34) 963852741 | palestrante@lenacurado.com",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "vivermelhordefinitivamente@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-5y"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/instituto-lena-curado-128x108.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
+          "text2": "<strong>Contacts</strong><br>\nEmail: hcurado@gmail.com<br>TLM: (34) 32 654 987<br><br>",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#607e41"
+            }
+          },
+          "_anchor": "contacts1-5k"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-5l"
         }
       ]
     }
