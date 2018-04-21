@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3387,7 +3387,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Olá e Muito obrigado !&nbsp;",
-          "text": "Com muita Energia iniciaremos uma mudança em sua vida e na sua empresa !<br>Detalhe sua necessidade para te ajudar melhor! <br>Em 48h te devolveremos um contacto assim que possa! Solicite sua sessão.<br>",
+          "text": "Com muita Energia iniciaremos uma mudança em sua vida e na sua empresa !<br>Detalhe sua necessidade para te ajudar melhor! <br>Em 48h te devolveremos um contacto! Solicite sua sessão.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -3401,7 +3401,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Número de telefone ou endereço de e-mail são para responder.\r</b></span></p><p><span style=\"font-style: normal;\"><b>Tudo o que você escreve é confidencial.\r</b></span></p><p><span style=\"font-style: normal;\"><b>Inscreve-te tanto quanto antes para obteres um diagnóstico gratuito.</b></span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Número de telefone ou endereço de e-mail são para darmos-lhe uma resposta.</b></span></p><p><span style=\"font-style: normal;\"><b>Tudo o que você escreve é confidencial.\n</b></span></p><p><span style=\"font-style: normal;\"><b>Inscreva-se tanto quanto antes para obter um diagnóstico gratuito.</b></span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -3425,10 +3425,10 @@
             "overlayOpacity": 0.5
           },
           "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
-          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 32 693 589 | hcurado@gmail.com",
+          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 656 65 87 45 ou 691 34 67 64 ou pelo e-mail consulting@lenacurado.com",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "hcurados@gmail.com",
+            "action": "consulting@lenacurado.com",
             "alerts": {
               "success": "Obrigada por preencher este nosso formulário!"
             },
@@ -3450,7 +3450,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço que procura."
+                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço ou duvida que queira esclarecer, Obrigado."
               }
             }
           },
