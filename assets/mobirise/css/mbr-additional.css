@@ -999,11 +999,28 @@ h6,
   color: #ffffff;
   font-size: 20px;
 }
-#form1-5a .form-control-label {
-  color: #232323;
+#form1-6o .form-control-label {
+  color: #ffffff;
 }
-#form1-5a SMALL {
-  color: #efefef;
+#form1-6o .mbr-section-title {
+  color: #ffffff;
+}
+#form1-6o SMALL {
+  color: #ffffff;
+}
+#header3-6p .mbr-section-title,
+#header3-6p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6p .mbr-section-title DIV {
+  color: #ffffff;
+  font-size: 36px;
+}
+#header3-6p .mbr-section-title {
+  color: #ffffff;
+}
+#header3-6p .mbr-section-subtitle {
+  color: #ffffff;
 }
 #contacts1-54 P {
   color: #607e41;
