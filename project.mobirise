@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -36,7 +36,9 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -1048,8 +1050,8 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
-        "title": "04-Sucesso em vendas com motivacao",
-        "order": 7
+        "title": "04 - Sucesso em vendas com motivacao",
+        "order": 6
       },
       "components": [
         {
@@ -1079,13 +1081,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1313,7 +1315,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Web Site Generator Description",
-        "title": "Mentoria, Consulting ou Coaching",
+        "title": "Mentoria, Consulting ou Coaching?",
         "order": 12
       },
       "components": [
@@ -1344,13 +1346,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2059,13 +2061,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2220,13 +2222,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2528,13 +2530,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3568,13 +3570,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3799,8 +3801,8 @@
     "page8.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "01-Tempo para que te quero",
-        "order": 4
+        "title": "01 - Tempo para que te quero",
+        "order": 3
       },
       "components": [
         {
@@ -4196,7 +4198,7 @@
     "page9.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "Palestra, Workshop ou Treimanento",
+        "title": "Palestra, Workshop ou Treimanento?",
         "order": 11
       },
       "components": [
@@ -4227,13 +4229,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -4461,8 +4463,8 @@
     "page10.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "03-Transacao da carreira",
-        "order": 6
+        "title": "03 - Transacao da carreira",
+        "order": 5
       },
       "components": [
         {
@@ -4492,13 +4494,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -4665,7 +4667,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "02 - Atendimento 10 Estrelas",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -4695,13 +4697,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -4896,7 +4898,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "VOCÊ?",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -4926,13 +4928,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -5295,8 +5297,8 @@
     "page13.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "05-Chefia e Liderança",
-        "order": 8
+        "title": "05 - Chefia e Liderança",
+        "order": 7
       },
       "components": [
         {
@@ -5326,13 +5328,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -5498,8 +5500,8 @@
     "page14.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
-        "title": "06-Etiqueta social",
-        "order": 9
+        "title": "06 - Etiqueta social",
+        "order": 8
       },
       "components": [
         {
@@ -5529,13 +5531,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -5701,8 +5703,8 @@
     "page15.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
-        "title": "07-Sistema Kanban",
-        "order": 10
+        "title": "07 - Sistema Kanban",
+        "order": 9
       },
       "components": [
         {
@@ -5732,13 +5734,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#141414"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#262626!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#2e2e2e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -5904,8 +5906,8 @@
     "page16.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "Eu tenho o poder",
-        "order": 2
+        "title": "8 - Eu tenho o poder",
+        "order": 10
       },
       "components": [
         {
