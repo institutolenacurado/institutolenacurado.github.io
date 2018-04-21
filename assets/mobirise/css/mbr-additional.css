@@ -1719,8 +1719,11 @@ h6,
 #header3-5p .mbr-section-subtitle {
   font-family: 'Montserrat', sans-serif;
 }
+#header3-5p .mbr-section-title {
+  color: #ffffff;
+}
 #content1-5q P {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Montserrat', sans-serif;
   text-align: left;
 }
@@ -1734,12 +1737,15 @@ h6,
 }
 #content1-5v P {
   font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
 }
 #content7-5t P {
   font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
 }
 #content1-5x P {
   font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
 }
 #form1-6c .form-control-label {
   color: #ffffff;

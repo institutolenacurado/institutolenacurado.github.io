@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "page16.html",
+    "currentPage": "workshopagenda.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -4735,13 +4735,16 @@
             ".mbr-section-subtitle": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#2e2e2e"
           },
           "title": "Agenda do mês de Maio 2018",
           "meta": "",
@@ -4755,7 +4758,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#2e2e2e"
           },
           "text": "<p><b>PLANO DA ACÇÃO (METODOLOGIA VMD)\n</b></p><p><b>Cronograma / Plano de sessão/ Programa)\n</b></p><p><b>CICLO DE WORKSHOPS TEMÁTICOS&nbsp;</b></p><p><b><br></b></p><p>Data: 04 a 25 de Maio de 2018</p><p>Horário: 10h00 – 12h00 e/ou 14h00 – 16h00\n</p><p>N.º Horas: 8 horas (4 Workshops temáticos de 2 horas)\n</p><p>Local: Vila Real de Santo António</p><p><br></p><p><b>Workshops para apresentação do programa de coaching através da Metodologia VMD</b></p><p><b>TEMAS</b></p><p>Workshop 1: <b>\"Conheço o meu corpo, sou saudável\"</b>&nbsp;– 04 de Maio, das 10h00-12h00\n</p><p>Workshop 2: <b>\"Tenho postura, tenho PODER\"</b>&nbsp;- 11 de Maio, das 14h00-16h00\n</p><p>Workshop 3: <b>\"Âncoras inibidoras\"</b>&nbsp;– 18 de Maio, das 10h00-12h00\n</p><p>Workshop 4: <b>\"Ajustar a bússola\"&nbsp;</b>- 25 de Maio, das 14h00-16h00</p>",
           "_tags": [
@@ -4765,7 +4768,7 @@
           "_anchor": "content1-5q",
           "_styles": {
             "P": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "text-align": "left"
@@ -4904,7 +4907,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#2e2e2e"
           },
           "text": "<p><b>ATIVIDADES DAS SESSÕES</b></p><p><b><br></b></p><p>1) Boas Vindas\n</p><p>2) Apresentação da Formação e História do Método VMD e os seus Benefícios na saúde física, mental, emocional e espiritual)\n</p><p>3) Apresentação da missão do Instituto Lena Curado e do Método VMD - Terapia de coaching em grupo.\n</p><p>4) Apresentação dos participantes\n</p><p>5) Apresentação dos objectivos do workshop (Missão, Método).</p><p>6) Definindo a avaliação baseada em métodos mistos.</p><p>5) Dinamica: Meditacao \"Gratidao\"</p><p>\n</p><p>7) Exposição: Momento de reflexão conjunta sobre o tema do dia.</p><p>8) Exposição: Conteúdo do tema do dia.</p><p>\n</p><p>9) Dinamicas: Organização dos formandos para dinâmica de grupos.</p><p>8) Dinamica: Meditacao \"Gratidao\"</p><p>10) Conclusão: Conclusão do workshop reforçando a ideia do conteúdo do workshop, Informação sobre o próximo workshop.\n</p><p>11) Despedida e com entrega de lembrança simbólica de presença.</p>",
           "_tags": [
@@ -4915,7 +4918,8 @@
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
             }
           }
         },
@@ -4923,7 +4927,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#2e2e2e"
           },
           "text1": "<p><b>GERAL</b></p><p>Entidade Formadora: IDHLC-VMD</p><p>Formador(es): </p><p>Master Coach Lena Curado</p><p>Área de Formação:</p><p>Desenvolvimento Humano</p><p><br></p><p><br></p><p><br></p><p><b>MODALIDADE DA FORMAÇÃO</b></p><p>Inicial\n</p><p>Aperfeiçoamento\n</p><p>Formação Contínua/Atualização</p><p><br></p><p><b>RECURSOS MATERIAIS E PEDAGÓGICOS</b></p><p>Projecção de Power Point, com recurso ao Projector de Vídeo;\n</p><p>Flip Chart\n</p><p>Manual de apoio</p><p>Inclui: Manuais em Pdf </p><p>(Imprima o seu manual que esta por baixo de cada sessão de workshop)\n</p><p> \n</p><p> \n</p>",
           "text2": "<p><b>DESTINATÁRIOS</b></p><p>Todas as pessoas que pretendam reaprenderem a se amar incondicionalmente.\n</p><p>Pessoas que queiram aprofundar conhecimentos sobre os Benefícios da auto-ajuda. Requisitos Mínimos Não aplicável.</p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><b>FORMA DE ORGANIZAÇÃO DA FORMAÇÃO</b></p><p>Presencial</p><p><br></p><p><br></p><p><b>CERTIFICADO</b></p><p>Certificado de presença no final dos 4 workshops e só para quem frequentou 80% das sessões.</p><p><br></p><p> \n</p>",
@@ -4936,7 +4940,8 @@
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
             }
           }
         },
@@ -4944,7 +4949,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#2e2e2e"
           },
           "text": "<p><b>MÉTODOS DE AVALIAÇÃO</b></p><p><b>Avaliação aos Formandos:</b> Não aplicável\n</p><p><b>Avaliação da Formação: </b>Preenchimento do Questionário de Avaliação Formando, pelos formandos, no final da ação de formação;\n</p><p>Questionário de Avaliação Formador, a preencher no final da mesma pelo formador.</p><p><br></p><p><b>CONDIÇÕES DE PARTICIPAÇÃO\n</b></p><p><br></p><p><b>ASSIDUIDADE\n</b></p><p>Após a ação de formação será atribuído um Certificado aos formandos que assistam a pelo menos 80% da sua duração total; no caso,\n</p><p>de ações de formação que contemplem avaliação aos formandos, mantém-se a mesma regra da assiduidade (80%), mas o formando\n</p><p>terá de concluir a ação de formação com aproveitamento.\n</p><p>Este Certificado será entregue ao formando desde que cumpridas as condições de participação.</p><p><br></p><p><b>CANCELAMENTO DAS AÇÕES DE FORMAÇÃO\n</b></p><p>A participação no curso está dependente da confirmação, por escrito, da sua realização e disponibilidade de lugares.\n</p><p>A ACIF-CCIM reserva o direito de cancelar as ações de formação até três dias antes do início das mesmas, comprometendo-se, neste\n</p><p>caso, a devolver a importância cobrada.\n</p><p><br></p><p><b>SELEÇÃO DE FORMANDOS\n</b></p><p>No processo de seleção será dada prioridade a: 1º) cumprimento dos requisitos mínimos divulgados no programa; 2º) associados da\n</p><p>ACIF-CCIM; 3º) ordem de chegada das inscrições.\n</p><p><b>NOTA:</b> Numa 1ª fase, serão aceites apenas 2 inscrições por entidade. Posteriormente, havendo vagas, poderão ser aceites mais\n</p><p>inscrições.&nbsp;</p><p><br></p><p><b>PAGAMENTO E CANCELAMENTO DAS INSCRIÇÕES\n</b></p><p><br></p><p><b>PREÇO POR INSCRIÇÃO (Inscricoes limitadas)</b></p><p><b><br></b></p><p><b>Valor das Sessoes de apresentacao da \"Metodologia VMD\"</b></p><p>(1kg de alimentos nao pereciveis)\n</p><p>Os alimentos entregues sao para a associacao da localidade onde e menistrado do workshop.</p><p><br></p><p>Faça o workshop Introdução completo (4 sessoes) do Treinamento VMD-PNL e ganhe desconto de 10% no Programa total de Coaching avançado \"Viver Melhor Definitivamente com PNL\".</p><p>Garantia de 100% de satisfação ou seu dinheiro de volta, ao final do curso.</p><p><b><br></b></p><p><b>Valor das sessoes para empresas ou convivios particulares</b></p><p>Um Workshop – € 40,00\n</p><p>Quatro Workshop – €140,00</p><p><br></p><p>1) Todos os custos de participação indicados estão isentos de IVA (cfr. Art. 9º do CIVA);&nbsp;</p><p><b><br></b></p><p>2) Desconto de 10% para as entidades com 3 ou mais inscrições na mesma ação (não acumulável), desde que a ação não seja objeto\n</p><p>de financiamento pelo FSE ou outro Fundo;</p><p><br></p><p>\n</p><p>3) O pagamento das inscrições deve ser feito em dinheiro, multibanco, por cheque à ordem da ACIF-CCIM ou por transferência\n</p><p>bancária, através do NIB 0038 0001 21369876771 12 (Por favor, enviar por fax: 291206868 ou por e-mail: geral@acif-ccim.pt o\n</p><p>comprovativo da transferência);</p><p><br></p><p>\n</p><p>4) As inscrições deverão ser pagas até 5 dias úteis antes do início da ação de formação; Caso não seja regularizado o pagamento\n</p><p>dentro do prazo estipulado, a ACIF-CCIM reserva o direito de anular a respetiva inscrição;</p><p><br></p><p>\n</p><p>5) Desistências\n</p><p>a) As desistências deverão ser comunicadas à ACIF-CCIM, por escrito;\n</p><p>b) Nas desistências comunicadas até 5 dias úteis antes do início da ação de formação, será devolvido o valor pago;\n</p><p>c) Nas desistências comunicadas entre o 4º e o último dia útil da data de início da ação de formação, será devolvido 50% do\n</p><p>valor pago;\n</p><p>d) As desistências não comunicadas ou comunicadas a partir da data de início da ação de formação, não serão alvo de\n</p><p>qualquer reembolso.&nbsp;</p><p><br></p><p><b>MAIS INFORMAÇÕES</b></p><p>Inscrições pelo email consulting@lenacurado.com\n</p><p>Mais informação pelo watsap +34 963852741</p><p><br></p><p><b>Traga um ou mais amigos</b></p><p><b>VAGAS LIMITADAS!</b></p><p><b><br></b></p><p><b>Momentos que farão uma grande diferença no mundo interno das pessoas e que as ajudarão a direcionar a energia emocional para realizar seus SONHOS, e acima de tudo, serem saudáveis e FELIZES.\n</b></p><p><b>\n</b></p><p><b>Conecte-se direto com VOCÊ.</b></p><p> \n</p>",
           "_tags": [
@@ -4955,7 +4960,8 @@
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
             }
           }
         },
