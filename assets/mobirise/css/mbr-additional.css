@@ -1771,7 +1771,13 @@ h6,
   color: #607e41!important;
 }
 #form1-64 .form-control-label {
-  color: #232323;
+  color: #ffffff;
+}
+#form1-64 .mbr-section-title {
+  color: #ffffff;
+}
+#form1-64 SMALL {
+  color: #ffffff;
 }
 #contacts1-60 P {
   color: #607e41;
@@ -2068,6 +2074,15 @@ h6,
 #header3-2j .mbr-section-subtitle {
   color: #ffffff;
 }
+#form1-65 .form-control-label {
+  color: #ffffff;
+}
+#form1-65 .mbr-section-title {
+  color: #ffffff;
+}
+#form1-65 SMALL {
+  color: #ffffff;
+}
 #header3-2q .mbr-section-title,
 #header3-2q .mbr-section-subtitle {
   text-align: center;
@@ -2081,9 +2096,6 @@ h6,
 }
 #header3-2q .mbr-section-subtitle {
   color: #ffffff;
-}
-#form1-2k .form-control-label {
-  color: #232323;
 }
 #contacts1-2g P {
   color: #607e41;
