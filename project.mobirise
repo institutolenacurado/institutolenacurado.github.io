@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "workshopagenda.html",
+    "currentPage": "palestracostumizada.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 225,
+    "uniqCompNum": 240,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -45,7 +45,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "04 - Sucesso em vendas com motivacao",
-        "order": 9
+        "order": 12
       },
       "components": [
         {
@@ -310,7 +310,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "03 - Transacao da carreira",
-        "order": 8
+        "order": 11
       },
       "components": [
         {
@@ -513,7 +513,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "02 - Atendimento 10 Estrelas",
-        "order": 7
+        "order": 10
       },
       "components": [
         {
@@ -744,7 +744,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "VOCÊ?",
-        "order": 6
+        "order": 9
       },
       "components": [
         {
@@ -1144,7 +1144,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "05 - Chefia e Liderança",
-        "order": 10
+        "order": 13
       },
       "components": [
         {
@@ -1347,7 +1347,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "06 - Etiqueta social",
-        "order": 11
+        "order": 14
       },
       "components": [
         {
@@ -1550,7 +1550,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "07 - Sistema Kanban",
-        "order": 12
+        "order": 15
       },
       "components": [
         {
@@ -1753,7 +1753,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "8 - Eu tenho o poder",
-        "order": 13
+        "order": 16
       },
       "components": [
         {
@@ -3465,7 +3465,7 @@
           "form": {
             "action": "consulting@lenacurado.com",
             "alerts": {
-              "success": "Obrigada por preencher este formulário!"
+              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
             },
             "fields": {
               "name": {
@@ -3761,7 +3761,7 @@
           "form": {
             "action": "consulting@lenacurado.com",
             "alerts": {
-              "success": "Obrigada por preencher este formulário!"
+              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
             },
             "fields": {
               "name": {
@@ -3800,7 +3800,37 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "form1-67"
+          "_anchor": "form1-6a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "LEMBRE-SE o nosso OBJETIVO fixa-se em\n<div>RESULTADOS IMEDIATOS E DEFINITIVOS PARA VOCÊ!</div>",
+          "meta": "Duração da Palestra de Vendas: Até 2 horas;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6b"
         },
         {
           "_params": {
@@ -3936,63 +3966,6 @@
           }
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "QUERO CONSULTORIA PRO",
-          "subtitle": "Entre em contato e AGENDE sua Consultoria PRO 0346678945 | hcurado@gmail.com",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "form": {
-            "action": "vivermelhordefinitivamente@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-1d",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -4079,6 +4052,99 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
+          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 656 65 87 45 - 691 34 67 64 \n<br>Também pode contatar pelo correio electrónico consulting@lenacurado.com",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR AGORA</a>",
+          "form": {
+            "action": "consulting@lenacurado.com",
+            "alerts": {
+              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Subrenome, Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "TLM*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço ou duvida que queira esclarecer se inscrever, Obrigado."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-6e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "LEMBRE-SE o nosso OBJETIVO fixa-se em\n<div>RESULTADOS IMEDIATOS E DEFINITIVOS PARA VOCÊ!</div>",
+          "meta": "Duração da Palestra de Vendas: Até 2 horas;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6f"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -4150,7 +4216,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Palestra Costumizada",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4332,31 +4398,31 @@
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
-            "labelsColor": "#232323",
+            "labelsColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#cccccc",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "PALESTRA COSTUMIZADA",
-          "subtitle": "Entre em contato e AGENDE sua PALESTRA COSTUMIZADA:  (34) 66 256 859 | hcurado@gmail.com",
+          "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
+          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 656 65 87 45 - 691 34 67 64 \n<br>Também pode contatar pelo correio electrónico consulting@lenacurado.com",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR AGORA</a>",
           "form": {
-            "action": "vivermelhordefinitivamente@gmail.com",
+            "action": "consulting@lenacurado.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Subrenome, Nome*"
               },
               "email": {
                 "visible": true,
@@ -4366,11 +4432,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "TLM*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço ou duvida que queira esclarecer se inscrever, Obrigado."
               }
             }
           },
@@ -4380,10 +4446,46 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "form1-1l"
+          "_anchor": "form1-6g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "LEMBRE-SE o nosso OBJETIVO fixa-se em\n<div>RESULTADOS IMEDIATOS E DEFINITIVOS PARA VOCÊ!</div>",
+          "meta": "Duração da Palestra de Vendas: Até 2 horas;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6h"
         },
         {
           "_params": {
@@ -4846,7 +4948,7 @@
           "form": {
             "action": "consulting@lenacurado.com",
             "alerts": {
-              "success": "Obrigada por preencher este formulário! Respondemos o mais breve possível."
+              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
             },
             "fields": {
               "name": {
@@ -4885,7 +4987,37 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "form1-68"
+          "_anchor": "form1-6c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "LEMBRE-SE o nosso OBJETIVO fixa-se em\n<div>RESULTADOS IMEDIATOS E DEFINITIVOS PARA VOCÊ!</div>",
+          "meta": "Duração da Palestra de Vendas: Até 2 horas;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6d"
         },
         {
           "_params": {
@@ -4960,7 +5092,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Palestra, Workshop ou Treimanento?",
-        "order": 14
+        "order": 7
       },
       "components": [
         {
@@ -5099,31 +5231,31 @@
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
-            "labelsColor": "#232323",
+            "labelsColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#cccccc",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "QUERO UM ORÇAMENTO PARA...",
-          "subtitle": "Entre em contato e AGENDE sua Palestra:  (34) 32 369 321 | hcurado@gmail.com",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
+          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 656 65 87 45 - 691 34 67 64 \n<br>Também pode contatar pelo correio electrónico consulting@lenacurado.com",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR AGORA</a>",
           "form": {
-            "action": "vivermelhordefinitivamente@gmail.com",
+            "action": "consulting@lenacurado.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Subrenome, Nome*"
               },
               "email": {
                 "visible": true,
@@ -5133,11 +5265,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "TLM*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço ou duvida que queira esclarecer se inscrever, Obrigado."
               }
             }
           },
@@ -5147,10 +5279,46 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "form1-30"
+          "_anchor": "form1-6k"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "LEMBRE-SE o nosso OBJETIVO fixa-se em\n<div>RESULTADOS IMEDIATOS E DEFINITIVOS PARA VOCÊ!</div>",
+          "meta": "Duração da Palestra de Vendas: Até 2 horas;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6l"
         },
         {
           "_params": {
@@ -5225,7 +5393,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Mentoria, Consulting ou Coaching?",
-        "order": 15
+        "order": 8
       },
       "components": [
         {
@@ -5694,33 +5862,33 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": "2",
+            "labelsColor": "#ffffff",
+            "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#cccccc",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br>",
-          "subtitle": "A pré marcação de consulta neste formulário é apenas indicativa.\n<br>Será contactado(a) para confirmar o agendamento.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
+          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 656 65 87 45 - 691 34 67 64 \n<br>Também pode contatar pelo correio electrónico consulting@lenacurado.com",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR AGORA</a>",
           "form": {
-            "action": "vivermelhordefinitivamente@gmail.com",
+            "action": "consulting@lenacurado.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Subrenome, Nome*"
               },
               "email": {
                 "visible": true,
@@ -5730,11 +5898,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "TLM*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço ou duvida que queira esclarecer se inscrever, Obrigado."
               }
             }
           },
@@ -5744,14 +5912,46 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             },
             "SMALL": {
-              "color": "#000000",
-              "font-size": "30px"
+              "color": "#ffffff"
             }
           },
-          "_anchor": "form1-3y"
+          "_anchor": "form1-6m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "LEMBRE-SE o nosso OBJETIVO fixa-se em\n<div>RESULTADOS IMEDIATOS E DEFINITIVOS PARA VOCÊ!</div>",
+          "meta": "Duração da Palestra de Vendas: Até 2 horas;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6n"
         },
         {
           "_params": {
@@ -5826,7 +6026,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Como trabalhamos?",
-        "order": 16
+        "order": 5
       },
       "components": [
         {
@@ -6480,31 +6680,31 @@
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
-            "labelsColor": "#232323",
+            "labelsColor": "#ffffff",
             "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#cccccc",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Qual o processo que vou agendar?",
-          "subtitle": "Entre em contato e AGENDE sua CONSULTA, COACHING, PALESTRA OU TREINAMENTO.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
+          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 656 65 87 45 - 691 34 67 64 \n<br>Também pode contatar pelo correio electrónico consulting@lenacurado.com",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR AGORA</a>",
           "form": {
-            "action": "vivermelhordefinitivamente@gmail.com",
+            "action": "consulting@lenacurado.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Subrenome, Nome*"
               },
               "email": {
                 "visible": true,
@@ -6514,11 +6714,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "TLM*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço ou duvida que queira esclarecer se inscrever, Obrigado."
               }
             }
           },
@@ -6528,10 +6728,46 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "form1-1z"
+          "_anchor": "form1-6i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "LEMBRE-SE o nosso OBJETIVO fixa-se em\n<div>RESULTADOS IMEDIATOS E DEFINITIVOS PARA VOCÊ!</div>",
+          "meta": "Duração da Palestra de Vendas: Até 2 horas;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6j"
         },
         {
           "_params": {
