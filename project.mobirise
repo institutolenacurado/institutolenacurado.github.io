@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 224,
+    "uniqCompNum": 225,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -4828,31 +4828,31 @@
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "labelsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgColor": "#cccccc",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "QUERO ME INSCREVER",
-          "subtitle": "Entre em contato e AGENDE WORKSHOP OU sua Consultoria VIP:  (+34) 963852741 | palestrante@lenacurado.com",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
+          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 656 65 87 45 - 691 34 67 64 \n<br>Também pode contatar pelo correio electrónico consulting@lenacurado.com",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR AGORA</a>",
           "form": {
-            "action": "vivermelhordefinitivamente@gmail.com",
+            "action": "consulting@lenacurado.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Obrigada por preencher este formulário! Respondemos o mais breve possível."
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Subrenome, Nome*"
               },
               "email": {
                 "visible": true,
@@ -4862,11 +4862,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "TLM*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço ou duvida que queira esclarecer se inscrever, Obrigado."
               }
             }
           },
@@ -4876,13 +4876,16 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "form1-5y"
+          "_anchor": "form1-68"
         },
         {
           "_params": {

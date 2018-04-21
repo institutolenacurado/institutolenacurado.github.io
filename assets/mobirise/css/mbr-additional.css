@@ -1670,10 +1670,13 @@ h6,
 #content1-5x P {
   font-family: 'Montserrat', sans-serif;
 }
-#form1-5y .form-control-label {
-  color: #232323;
+#form1-68 .form-control-label {
+  color: #ffffff;
 }
-#form1-5y .mbr-section-title {
+#form1-68 .mbr-section-title {
+  color: #ffffff;
+}
+#form1-68 SMALL {
   color: #ffffff;
 }
 #contacts1-5k P {
