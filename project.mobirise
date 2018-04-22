@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "page17.html",
+    "currentPage": "workshopagenda.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 256,
+    "uniqCompNum": 257,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -4650,9 +4650,29 @@
             "paddingBottom": 1,
             "bgColor": "#2e2e2e"
           },
+          "text": "<blockquote>OBJETIVOS\n</blockquote><blockquote>Gerais e específicos: No final da acção os participantes vão ser capazes de reconhecer mais e melhores competências na gestão económica das organizações.\n</blockquote><blockquote>Este Workshop tem um carácter informativo e entrega de conteúdo sobre o treinamento “VMD\" (Viver Melhor Definitivamente).\n</blockquote><blockquote>Este curso visa introduzir a metodologia da Programação Neurolingüística – PNL, dando ênfase à parte de comunicação interna e interpessoal com teoria e prática, e apresenta algumas técnicas de mudança pessoal.\n</blockquote><blockquote>O participante obterá uma compreensão do funcionamento do cérebro humano, e, conseqüentemente, passará a “dirigir seu próprio carro” e alcançar metas mais facilmente.</blockquote>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-74",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
           "text1": "<p><b>GERAL</b></p><p>Entidade Formadora: IDHLC-VMD</p><p>Formador(es): </p><p>Master Coach Lena Curado</p><p>Área de Formação:</p><p>Desenvolvimento Humano</p><p><br></p><p><br></p><p><br></p><p><b>MODALIDADE DA FORMAÇÃO</b></p><p>Inicial\n</p><p>Aperfeiçoamento\n</p><p>Formação Contínua/Atualização</p><p><br></p><p><b>RECURSOS MATERIAIS E PEDAGÓGICOS</b></p><p>Projecção de Power Point, com recurso ao Projector de Vídeo;\n</p><p>Flip Chart\n</p><p>Manual de apoio</p><p>Inclui: Manuais em Pdf </p><p>(Imprima o seu manual que esta por baixo de cada sessão de workshop)\n</p><p> \n</p><p> \n</p>",
           "text2": "<p><b>DESTINATÁRIOS</b></p><p>Todas as pessoas que pretendam reaprenderem a se amar incondicionalmente.\n</p><p>Pessoas que queiram aprofundar conhecimentos sobre os Benefícios da auto-ajuda. Requisitos Mínimos Não aplicável.</p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><b>FORMA DE ORGANIZAÇÃO DA FORMAÇÃO</b></p><p>Presencial</p><p><br></p><p><br></p><p><b>CERTIFICADO</b></p><p>Certificado de presença no final dos 4 workshops e só para quem frequentou 80% das sessões.</p><p><br></p><p> \n</p>",
-          "text3": "<p><b>OBJETIVOS\n</b></p><p>Gerais e específicos: No final da acção os participantes vão ser capazes de reconhecer mais e melhores competências na gestão económica das organizações.</p><p>Este Workshop tem um carácter informativo e entrega de conteúdo sobre o treinamento “VMD\" (Viver Melhor Definitivamente)</p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><br></p><p><b>MÉTODOS PEDAGÓGICOS</b>&nbsp;</p><p>Afirmativo\n</p><p>Interrogativo\n</p><p>Ativo</p><p><br></p><p><b>LOCAL</b></p><p>Empresas</p><p>Escolas</p><p>Universidades</p><p>Eventos</p><p>Acossiacoes</p><p>Abertas ao publico</p><p> \n</p>",
+          "text3": "<p><b style=\"font-size: 1.07rem;\">MÉTODOS PEDAGÓGICOS</b><span style=\"font-size: 1.07rem;\">&nbsp;</span><br></p><p>Afirmativo\n</p><p>Interrogativo\n</p><p>Ativo</p><p><br></p><p><b>LOCAL</b></p><p>Empresas</p><p>Escolas</p><p>Universidades</p><p>Eventos</p><p>Acossiacoes</p><p>Abertas ao publico</p><p> \n</p>",
           "_tags": [
             "Theme"
           ],

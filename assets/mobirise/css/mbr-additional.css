@@ -1549,6 +1549,7 @@ h6,
 
 
 
+
 #menu-5j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1650,6 +1651,10 @@ h6,
 #content1-5v P {
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
+}
+#content2-74 BLOCKQUOTE {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #content7-5t P {
   font-family: 'Montserrat', sans-serif;
