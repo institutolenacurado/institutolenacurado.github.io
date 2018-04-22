@@ -690,9 +690,11 @@ h6,
 #menu-3z .dropdown-item[aria-expanded="true"] {
   color: #607e41!important;
 }
-#msg-box8-42 .mbr-section-title,
-#msg-box8-42 p {
-  color: #fff;
+#header1-6q .mbr-section-lead {
+  color: #000000;
+}
+#header1-6q .mbr-section-title {
+  color: #000000;
 }
 #msg-box2-44 .mbr-section-title {
   color: #fff;
@@ -2167,5 +2169,77 @@ h6,
   color: #607e41;
 }
 #footer1-1r P {
+  font-size: 14px;
+}
+
+#menu-6r .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-6r .navbar-caption {
+  color: #ffffff;
+}
+#menu-6r .navbar-toggler {
+  color: #ffffff;
+}
+#menu-6r .close-icon::before,
+#menu-6r .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-6r .link,
+#menu-6r .dropdown-item {
+  color: #ffffff;
+}
+#menu-6r .link {
+  font-size: 0.75rem;
+}
+#menu-6r .dropdown-item,
+#menu-6r .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-6r .link:hover,
+#menu-6r .dropdown-item:hover,
+#menu-6r .link:focus,
+#menu-6r .dropdown-item:focus {
+  color: #607e41;
+}
+#menu-6r .link[aria-expanded="true"],
+#menu-6r .dropdown-menu {
+  background: #141414;
+}
+#menu-6r .nav-dropdown-sm .link:focus,
+#menu-6r .nav-dropdown-sm .link:hover,
+#menu-6r .nav-dropdown-sm .dropdown-item:focus,
+#menu-6r .nav-dropdown-sm .dropdown-item:hover {
+  background: #262626!important;
+}
+#menu-6r .navbar,
+#menu-6r .nav-dropdown-sm,
+#menu-6r .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-6r .nav-dropdown-sm .dropdown-menu {
+  background: #2e2e2e;
+}
+#menu-6r .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-6r .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-6r .bg-color.transparent.opened .link:hover,
+#menu-6r .bg-color.transparent.opened .link:focus {
+  color: #607e41;
+}
+#menu-6r .link[aria-expanded="true"],
+#menu-6r .dropdown-item[aria-expanded="true"] {
+  color: #607e41!important;
+}
+#header2-6u .mbr-section-text {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts1-6s P {
+  color: #607e41;
+}
+#footer1-6t P {
   font-size: 14px;
 }
