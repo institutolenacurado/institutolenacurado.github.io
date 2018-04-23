@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "contato.html",
+    "currentPage": "workshopagenda.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 257,
+    "uniqCompNum": 258,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -4707,6 +4707,37 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649",
+              "font-size": "24px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "Saia da sua zona de conforto! Saia da sua vidinha medíocre! <br>Se você pode ir mais, por que se contentar com o “mais ou menos”?!",
+          "meta": "Duração da Palestra de Vendas: Até 2 horas;",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-75"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
@@ -4788,7 +4819,7 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
           "title": "LEMBRE-SE o nosso OBJETIVO fixa-se em\n<div>RESULTADOS IMEDIATOS E DEFINITIVOS PARA VOCÊ!</div>",

@@ -1664,6 +1664,21 @@ h6,
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
 }
+#header3-75 .mbr-section-title,
+#header3-75 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-75 .mbr-section-title DIV {
+  color: #ffffff;
+  font-size: 36px;
+}
+#header3-75 .mbr-section-title {
+  color: #f3c649;
+  font-size: 24px;
+}
+#header3-75 .mbr-section-subtitle {
+  color: #ffffff;
+}
 #form1-6c .form-control-label {
   color: #ffffff;
 }
