@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "page16.html",
+    "currentPage": "tenhoopoder.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1763,486 +1763,6 @@
             }
           },
           "_anchor": "footer1-4t"
-        }
-      ]
-    },
-    "page16.html": {
-      "settings": {
-        "meta_descr": "Site Builder Description",
-        "title": "08 - Tenho o poder",
-        "order": 17
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#141414"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#262626!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2e2e2e"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#607e41!important"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#2e2e2e",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"quemsomos.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tempoparaquetequero.html\" target=\"_blank\">01 - Tempo para que te quero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tenhoopoder.html\" target=\"_blank\">08 - Tenho o Poder</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"consulturiapro.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palestracostumizada.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"workshopagenda.html\" aria-expanded=\"false\" target=\"_blank\">WORKSHOP AGENDA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mentoria,consultingoucoaching.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palestra,workshopoutreinamento.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palestra,workshopoutreinamento.html\" target=\"_blank\">COMO TRABALHAMOS?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\" aria-expanded=\"false\" target=\"_blank\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/instituto-dedesenvolvimentohumano-1-800x100.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-53"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instituto-dedesenvolvimentohumano-coaching-o-poder-esta-em-mim-1920x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "\"Tenho o Poder\"",
-          "text": "TRANSFORME O MUNDO COMEÇANDO POR VOCÊ\n<br>COM\n<br>PROGRAMAÇÃO NEUROLINGUÍSTICA",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-56"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/cansado-de-insegurana-angustias-frustraes-e-medos-640x426.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Cansado de insegurança, angustias, frustrações e medos para alcançar o que deseja?",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-57",
-          "_styles": {
-            "H3": {
-              "font-size": "24px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/voc-pode-mudar-isso-agora-640x392.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Você pode mudar isso agora!<br>Comece a ser dono da sua vida.",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-58",
-          "_styles": {
-            "H3": {
-              "font-size": "24px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
-          },
-          "text": "<p><b>WORKSHOP/COACHING &nbsp;</b></p><p><b>\"Eu tenho o poder\"\n</b></p><p>com Helena Curado\n</p><p>Vila Real Santo Antonio | Data a anunciar</p><p>Workshop 2:30m - Coaching de grupo 4h - Coaching individual 1h</p><p><br></p><p>\n</p><p>\n</p><p>Sente-se Insegura/o?\n</p><p>Falta-lhe Coragem?\n</p><p>Fica a remoer no Passado?\n</p><p>Perdeu a Alegria de Viver?</p><p><br></p><p>\n</p><p>\n</p><p>ENTÃO, ESTE É O WORKSHOP/COACHING CERTA PARA SI!\n</p><p>\n</p><p>O QUE É O CURSO?</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5f",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">•\tWorkshop de Aula Aberta Gratuita: 17/Março/2018 (sábado) das 09h30 às 13h00.\n<br>   INSCREVA-SE AQUI PARA A AULA ABERTA GRATUITA!</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-5b"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
-          },
-          "text": "<p>Você sabia que, de acordo com uma pesquisa realizada pela faculdade de medicina do hospital Johns Hopkins (Baltimore, Maryland, Estados Unidos), 90% das pessoas não mudam? Esta pesquisa foi realizada com milhares de pessoas que passaram por situações críticas de saúde, incluindo cirurgias cardíacas. Este número é muito expressivo!</p><p><br></p><p>\n</p><p>\n</p><p>Mas... por que será que isto acontece? Por que as tantas pessoas não mudam, nem mesmo em situações críticas? E se não é nada fácil mudar, como poderemos mudar o mundo à nossa volta?</p><p><br></p><p>\n</p><p>\n</p><p>Venha conhecer gratuitamente esta fantástica ferramenta de transformação pessoal capaz de mudar este número radicalmente. </p><p><br></p><p>Trata-se da PNL - Programação Neurolinguística; com ela podemos fazer novas escolhas em nossas vidas, mais poderosas, que transformam o mundo à nossa volta começando por nós mesmos!</p><p><br></p><p>\n</p><p>\n</p><p>Esta é a ferramenta estudada e praticada pelas pessoas de maior sucesso da atualidade: JK Rowling, Oprah Winfrey, Tiger Woods, David Beckham, Lewis Hamilton, Gustavo Kuerten, Anthony Robbins, entre tantos outros.</p><p><br></p><p>\n</p><p>\n</p><p>Além do workshop que lhe apresentará as diversas técnicas que fazem parte da PNL, você terá a oportunidade de participar de uma AULA GRATUITA e sentir na pele o que ela é capaz de promover em um ser humano!</p><p><br></p><p>\n</p><p>\n</p><p>A PNL, Programação Neuro Linguística, assenta no estudo da excelência humana, visa a\n</p><p>comunicação eficiente entre pessoas e consigo próprias, com o objetivo de conquistarem a\n</p><p>excelência e o desenvolvimento pessoal e profissional.</p><p><br></p><p>\n</p><p>\n</p><p>Este workshop é o primeiro mergulho para a descoberta do seu mundo interior e clarificação\n</p><p>daquilo que quer e de como chegar lá. Os primeiros passos para sair da zona de conforto,\n</p><p>parar de procrastinar, e cuidar da sua vida.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5c",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">• Coaching de 8 Secções: 4/11/18/25 de Maio e 1/8/15/22 Junho (sábados) das 09h30 às 13h00.\n<br> INSCREVA-SE AQUI PARA AS SECÇÕES DE COACHING DE GRUPO</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-5e"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
-          },
-          "text": "<p><b>PROGRAMA:</b><br></p><p>\n</p><p>•\tConteúdo a ser apresentado: \n</p><p>- O que é a Programação Neurolinguística (PNL) \n</p><p>- Como mudar nossa história pessoal \n</p><p>- Os Níveis Neurológicos para mudanças profundas e permanentes e soluções de problemas \n</p><p>- O que são Submodalidades – a \"linguagem cerebral\" que cura traumas e fobias \n</p><p>- Crenças e Valores pessoais – como os mudamos para impulsionar nossas vidas \n</p><p>- Demonstrações de técnicas / Aula gratuita&nbsp;</p><p><br></p><p><b>NO FINAL DO PROGRAMA DE COACHING VAI OBTER:</b></p><p>• Mais conhecimento na área da PNL;\n</p><p>• Maior facilidade em perceber como o seu cérebro funciona;\n</p><p>• Maior capacidade para transformar os seus resultados;\n</p><p>• Maior facilidade em fazer uma mudança na sua vida;\n</p><p>• Maior compreensão acerca de como sabota os seus resultados;\n</p><p>• Melhor capacidade para ajudar outras pessoas;\n</p><p>• Maior entusiasmo e energia pela sua vida;\n</p><p>• E muito, muito mais…</p><p><b><br></b></p><p><b>INFORMAÇÕES:</b></p><p><b>\n</b></p><p>Turmas reduzidas.\n</p><p>Carga horária: 60 horas.\n</p><p>Modalidade do curso: Presencial\n</p><p>Certificação:\n</p><p>O certificado é fornecido para o cursista que tiver, no mínimo, 75% de presença nas aulas.\n</p><p>Critério de Avaliação:\n</p><p>Avaliação constante durante a aplicação do curso, a partir de feedbacks e depoimentos dos cursistas.\n</p><p>Método/Metodologia:\n</p><p>\n</p><p>Neste curso fundamentado na Teoria da Inteligência Multifocal e método Augusto Cury (teórico-vivencial-reflexivo), você terá:\n</p><p>\n</p><p>Reflexões e discussões a respeito dos temas abordados;\n</p><p>Dinâmicas e vivências que constituem valiosos instrumentos educacionais utilizados para trabalhar o que é ensinado;\n</p><p>Filmes, vídeos, textos e artigos que ilustram e ampliam os assuntos abordados;\n</p><p>Vídeos explicativos com o Dr. Augusto Cury, destacando os principais tópicos do tema.</p><p><br></p><p><b>COMO VAI DECORRER ESTE WORKSHOP/COACHING?</b></p><p>Este Workshop tem um carácter essencialmente vivencial, decorrendo num ambiente descontraído, rico em dinâmicas e práticas de integração dos conteúdos transmitidos.\n</p><p>\n</p><p><b>Nota:</b> Os participantes não têm que expor qualquer informação acerca da sua vida pessoal durante o Workshop</p><p><br></p><p><b>A QUEM SE DESTINA:\n</b></p><p>\n</p><p>Todos aqueles que queiram iniciar-se no campo da PNL de uma forma vivencial e integrada.\n</p><p>Todos os que sintam dificuldade em definir e/ou atingir objectivos de sucesso pessoal.\n</p><p>Todos os que procurem expandir o seu potencial como seres humanos e encontrar um rumo na sua vida.\n</p><p>Todos os que precisem libertar-se de padrões destrutivos de comportamento.\n</p><p>Todos os que precisem ganhar auto-confiança e reforçar a auto-estima.</p><p><br></p><p><b>BENEFÍCIOS</b></p><p>Com este curso você conseguirá:\n</p><p>Maior senso de realização e de felicidade.\n</p><p>Mais motivação e disposição.\n</p><p>Aumentar seu equilíbrio, energia e produtividade.\n</p><p>Criar e manter relações saudáveis e produtivas com as pessoas, formar e liderar equipes.\n</p><p>Aumentar a qualidade de vida e do bem-estar emocional.\n</p><p>Gerenciar pensamentos.\n</p><p>Administrar emoções.\n</p><p>Controlar a ansiedade.\n</p><p>Aumentar sua satisfação pessoal e profissional.\n</p><p>Administrar conflitos.\n</p><p>Melhorar sua capacidade de comunicação.\n</p><p>Alcançar resoluções com mais desenvoltura, perspicácia e segurança.\n</p><p>Entendimento sobre o comportamento do outro.</p><p><br></p><p><b>COMO SE PODE INSCREVER?</b></p><p>\n</p><p>Contacte directamente o Instituto pelo <b>+34 656 658 745</b> ou através do email <b>workshop@lenacurado.com</b></p><p>\n</p><p>Para mais informações contacte: +34 656 658 745 ou +34 691 346 764 ou envie email para geral@lenacurado.com\n</p><p>Investimento – 120,00€  + IVA\n</p><p>Data: 23, 24, 25 e 26 de Maio</p><p>\n</p><p>Local: &nbsp;Biblioteca Municipal de Vila Real de Santo Antonio. (próximo das piscinas nunicipais)</p><p>\n</p><p>Duração: 16 horas (das 18h30 às 22h30)</p><p><br></p><p><b>INFORMAÇÕES PRÁTICAS</b></p><p>Data, local, horário e conteúdo:\n</p><p>•\tData do evento: 17 de março, sábado\n</p><p>•\tHorário: das 09h00 às 13h00\n</p><p>•\tLocal: Biblioteca Municipal de Vila Real de Santo Antonio. (próximo das piscinas nunicipais)</p><p>•\tInvestimento opcional: 1kg de alimento não perecível</p><p><br></p><p><b>PROMOÇÕES PARA INSCRIÇÕES ANTECIPADAS</b></p><p>Inscrições até um mês antes – 127,00€ com oferta do nosso livro Viver sem Ansiedade (manual deste Workshop)\n</p><p>Inscrições de 16 a 28 de Maio – 127€\n</p><p>Inscrições até 15 dias antes – 147€</p><p><br></p><p><b>FACILIDADE DE PAGAMENTO\n PALESTRA</b></p><p>Inscrição com 60,00€\n</p><p>Restante valor até à data do Workshop</p><p><br></p><p>Este é um grande passo para a transformação pessoal e, quem sabe, a possibilidade de uma nova jornada profissional. \n</p><p>Faça sua escolha, saia da rotina e venha passar um dia diferente e marcante!&nbsp;</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-59",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#ffffff",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#cccccc",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
-          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 656 65 87 45 - 691 34 67 64 \n<br>Também pode contatar pelo correio electrónico consulting@lenacurado.com",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR AGORA</a>",
-          "form": {
-            "action": "consulting@lenacurado.com",
-            "alerts": {
-              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Subrenome, Nome*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "TLM*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço ou duvida que queira esclarecer se inscrever, Obrigado."
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "form1-6o"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title DIV": {
-              "color": "#ffffff",
-              "font-size": "36px"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#2e2e2e"
-          },
-          "title": "LEMBRE-SE o nosso OBJETIVO fixa-se em\n<div>RESULTADOS IMEDIATOS E DEFINITIVOS PARA VOCÊ!</div>",
-          "meta": "Duração da Palestra de Vendas: Até 2 horas;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-6p"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/instituto-lena-curado-128x108.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
-          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#607e41"
-            }
-          },
-          "_anchor": "contacts1-54"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "footer1-55"
         }
       ]
     },
@@ -7202,6 +6722,486 @@
             }
           },
           "_anchor": "footer1-70"
+        }
+      ]
+    },
+    "tenhoopoder.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "08 - Tenho o poder",
+        "order": 17
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#607e41!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2e2e2e",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"quemsomos.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tempoparaquetequero.html\" target=\"_blank\">01 - Tempo para que te quero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tenhoopoder.html\" target=\"_blank\">08 - Tenho o Poder</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"consulturiapro.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palestracostumizada.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"workshopagenda.html\" aria-expanded=\"false\" target=\"_blank\">WORKSHOP AGENDA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DUVIDAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mentoria,consultingoucoaching.html\" target=\"_blank\">MENTORIA, CONSULTING OU COACHING?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palestra,workshopoutreinamento.html\" target=\"_blank\">PALESTRA, WORKSHOP OU TREINAMENTO?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palestra,workshopoutreinamento.html\" target=\"_blank\">COMO TRABALHAMOS?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\" aria-expanded=\"false\" target=\"_blank\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/instituto-dedesenvolvimentohumano-1-800x100.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-53"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/instituto-dedesenvolvimentohumano-coaching-o-poder-esta-em-mim-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "\"Tenho o Poder\"",
+          "text": "TRANSFORME O MUNDO COMEÇANDO POR VOCÊ\n<br>COM\n<br>PROGRAMAÇÃO NEUROLINGUÍSTICA",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-56"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/cansado-de-insegurana-angustias-frustraes-e-medos-640x426.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Cansado de insegurança, angustias, frustrações e medos para alcançar o que deseja?",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-57",
+          "_styles": {
+            "H3": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/voc-pode-mudar-isso-agora-640x392.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Você pode mudar isso agora!<br>Comece a ser dono da sua vida.",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-58",
+          "_styles": {
+            "H3": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<p><b>WORKSHOP/COACHING &nbsp;</b></p><p><b>\"Eu tenho o poder\"\n</b></p><p>com Helena Curado\n</p><p>Vila Real Santo Antonio | Data a anunciar</p><p>Workshop 2:30m - Coaching de grupo 4h - Coaching individual 1h</p><p><br></p><p>\n</p><p>\n</p><p>Sente-se Insegura/o?\n</p><p>Falta-lhe Coragem?\n</p><p>Fica a remoer no Passado?\n</p><p>Perdeu a Alegria de Viver?</p><p><br></p><p>\n</p><p>\n</p><p>ENTÃO, ESTE É O WORKSHOP/COACHING CERTA PARA SI!\n</p><p>\n</p><p>O QUE É O CURSO?</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5f",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">•\tWorkshop de Aula Aberta Gratuita: 17/Março/2018 (sábado) das 09h30 às 13h00.\n<br>   INSCREVA-SE AQUI PARA A AULA ABERTA GRATUITA!</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-5b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<p>Você sabia que, de acordo com uma pesquisa realizada pela faculdade de medicina do hospital Johns Hopkins (Baltimore, Maryland, Estados Unidos), 90% das pessoas não mudam? Esta pesquisa foi realizada com milhares de pessoas que passaram por situações críticas de saúde, incluindo cirurgias cardíacas. Este número é muito expressivo!</p><p><br></p><p>\n</p><p>\n</p><p>Mas... por que será que isto acontece? Por que as tantas pessoas não mudam, nem mesmo em situações críticas? E se não é nada fácil mudar, como poderemos mudar o mundo à nossa volta?</p><p><br></p><p>\n</p><p>\n</p><p>Venha conhecer gratuitamente esta fantástica ferramenta de transformação pessoal capaz de mudar este número radicalmente. </p><p><br></p><p>Trata-se da PNL - Programação Neurolinguística; com ela podemos fazer novas escolhas em nossas vidas, mais poderosas, que transformam o mundo à nossa volta começando por nós mesmos!</p><p><br></p><p>\n</p><p>\n</p><p>Esta é a ferramenta estudada e praticada pelas pessoas de maior sucesso da atualidade: JK Rowling, Oprah Winfrey, Tiger Woods, David Beckham, Lewis Hamilton, Gustavo Kuerten, Anthony Robbins, entre tantos outros.</p><p><br></p><p>\n</p><p>\n</p><p>Além do workshop que lhe apresentará as diversas técnicas que fazem parte da PNL, você terá a oportunidade de participar de uma AULA GRATUITA e sentir na pele o que ela é capaz de promover em um ser humano!</p><p><br></p><p>\n</p><p>\n</p><p>A PNL, Programação Neuro Linguística, assenta no estudo da excelência humana, visa a\n</p><p>comunicação eficiente entre pessoas e consigo próprias, com o objetivo de conquistarem a\n</p><p>excelência e o desenvolvimento pessoal e profissional.</p><p><br></p><p>\n</p><p>\n</p><p>Este workshop é o primeiro mergulho para a descoberta do seu mundo interior e clarificação\n</p><p>daquilo que quer e de como chegar lá. Os primeiros passos para sair da zona de conforto,\n</p><p>parar de procrastinar, e cuidar da sua vida.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5c",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">• Coaching de 8 Secções: 4/11/18/25 de Maio e 1/8/15/22 Junho (sábados) das 09h30 às 13h00.\n<br> INSCREVA-SE AQUI PARA AS SECÇÕES DE COACHING DE GRUPO</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-5e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<p><b>PROGRAMA:</b><br></p><p>\n</p><p>•\tConteúdo a ser apresentado: \n</p><p>- O que é a Programação Neurolinguística (PNL) \n</p><p>- Como mudar nossa história pessoal \n</p><p>- Os Níveis Neurológicos para mudanças profundas e permanentes e soluções de problemas \n</p><p>- O que são Submodalidades – a \"linguagem cerebral\" que cura traumas e fobias \n</p><p>- Crenças e Valores pessoais – como os mudamos para impulsionar nossas vidas \n</p><p>- Demonstrações de técnicas / Aula gratuita&nbsp;</p><p><br></p><p><b>NO FINAL DO PROGRAMA DE COACHING VAI OBTER:</b></p><p>• Mais conhecimento na área da PNL;\n</p><p>• Maior facilidade em perceber como o seu cérebro funciona;\n</p><p>• Maior capacidade para transformar os seus resultados;\n</p><p>• Maior facilidade em fazer uma mudança na sua vida;\n</p><p>• Maior compreensão acerca de como sabota os seus resultados;\n</p><p>• Melhor capacidade para ajudar outras pessoas;\n</p><p>• Maior entusiasmo e energia pela sua vida;\n</p><p>• E muito, muito mais…</p><p><b><br></b></p><p><b>INFORMAÇÕES:</b></p><p><b>\n</b></p><p>Turmas reduzidas.\n</p><p>Carga horária: 60 horas.\n</p><p>Modalidade do curso: Presencial\n</p><p>Certificação:\n</p><p>O certificado é fornecido para o cursista que tiver, no mínimo, 75% de presença nas aulas.\n</p><p>Critério de Avaliação:\n</p><p>Avaliação constante durante a aplicação do curso, a partir de feedbacks e depoimentos dos cursistas.\n</p><p>Método/Metodologia:\n</p><p>\n</p><p>Neste curso fundamentado na Teoria da Inteligência Multifocal e método Augusto Cury (teórico-vivencial-reflexivo), você terá:\n</p><p>\n</p><p>Reflexões e discussões a respeito dos temas abordados;\n</p><p>Dinâmicas e vivências que constituem valiosos instrumentos educacionais utilizados para trabalhar o que é ensinado;\n</p><p>Filmes, vídeos, textos e artigos que ilustram e ampliam os assuntos abordados;\n</p><p>Vídeos explicativos com o Dr. Augusto Cury, destacando os principais tópicos do tema.</p><p><br></p><p><b>COMO VAI DECORRER ESTE WORKSHOP/COACHING?</b></p><p>Este Workshop tem um carácter essencialmente vivencial, decorrendo num ambiente descontraído, rico em dinâmicas e práticas de integração dos conteúdos transmitidos.\n</p><p>\n</p><p><b>Nota:</b> Os participantes não têm que expor qualquer informação acerca da sua vida pessoal durante o Workshop</p><p><br></p><p><b>A QUEM SE DESTINA:\n</b></p><p>\n</p><p>Todos aqueles que queiram iniciar-se no campo da PNL de uma forma vivencial e integrada.\n</p><p>Todos os que sintam dificuldade em definir e/ou atingir objectivos de sucesso pessoal.\n</p><p>Todos os que procurem expandir o seu potencial como seres humanos e encontrar um rumo na sua vida.\n</p><p>Todos os que precisem libertar-se de padrões destrutivos de comportamento.\n</p><p>Todos os que precisem ganhar auto-confiança e reforçar a auto-estima.</p><p><br></p><p><b>BENEFÍCIOS</b></p><p>Com este curso você conseguirá:\n</p><p>Maior senso de realização e de felicidade.\n</p><p>Mais motivação e disposição.\n</p><p>Aumentar seu equilíbrio, energia e produtividade.\n</p><p>Criar e manter relações saudáveis e produtivas com as pessoas, formar e liderar equipes.\n</p><p>Aumentar a qualidade de vida e do bem-estar emocional.\n</p><p>Gerenciar pensamentos.\n</p><p>Administrar emoções.\n</p><p>Controlar a ansiedade.\n</p><p>Aumentar sua satisfação pessoal e profissional.\n</p><p>Administrar conflitos.\n</p><p>Melhorar sua capacidade de comunicação.\n</p><p>Alcançar resoluções com mais desenvoltura, perspicácia e segurança.\n</p><p>Entendimento sobre o comportamento do outro.</p><p><br></p><p><b>COMO SE PODE INSCREVER?</b></p><p>\n</p><p>Contacte directamente o Instituto pelo <b>+34 656 658 745</b> ou através do email <b>workshop@lenacurado.com</b></p><p>\n</p><p>Para mais informações contacte: +34 656 658 745 ou +34 691 346 764 ou envie email para geral@lenacurado.com\n</p><p>Investimento – 120,00€  + IVA\n</p><p>Data: 23, 24, 25 e 26 de Maio</p><p>\n</p><p>Local: &nbsp;Biblioteca Municipal de Vila Real de Santo Antonio. (próximo das piscinas nunicipais)</p><p>\n</p><p>Duração: 16 horas (das 18h30 às 22h30)</p><p><br></p><p><b>INFORMAÇÕES PRÁTICAS</b></p><p>Data, local, horário e conteúdo:\n</p><p>•\tData do evento: 17 de março, sábado\n</p><p>•\tHorário: das 09h00 às 13h00\n</p><p>•\tLocal: Biblioteca Municipal de Vila Real de Santo Antonio. (próximo das piscinas nunicipais)</p><p>•\tInvestimento opcional: 1kg de alimento não perecível</p><p><br></p><p><b>PROMOÇÕES PARA INSCRIÇÕES ANTECIPADAS</b></p><p>Inscrições até um mês antes – 127,00€ com oferta do nosso livro Viver sem Ansiedade (manual deste Workshop)\n</p><p>Inscrições de 16 a 28 de Maio – 127€\n</p><p>Inscrições até 15 dias antes – 147€</p><p><br></p><p><b>FACILIDADE DE PAGAMENTO\n PALESTRA</b></p><p>Inscrição com 60,00€\n</p><p>Restante valor até à data do Workshop</p><p><br></p><p>Este é um grande passo para a transformação pessoal e, quem sabe, a possibilidade de uma nova jornada profissional. \n</p><p>Faça sua escolha, saia da rotina e venha passar um dia diferente e marcante!&nbsp;</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-59",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
+          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 656 65 87 45 - 691 34 67 64 \n<br>Também pode contatar pelo correio electrónico consulting@lenacurado.com",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR AGORA</a>",
+          "form": {
+            "action": "consulting@lenacurado.com",
+            "alerts": {
+              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Subrenome, Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "TLM*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço ou duvida que queira esclarecer se inscrever, Obrigado."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-6o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "LEMBRE-SE o nosso OBJETIVO fixa-se em\n<div>RESULTADOS IMEDIATOS E DEFINITIVOS PARA VOCÊ!</div>",
+          "meta": "Duração da Palestra de Vendas: Até 2 horas;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6p"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/instituto-lena-curado-128x108.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#607e41"
+            }
+          },
+          "_anchor": "contacts1-54"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-55"
         }
       ]
     }
