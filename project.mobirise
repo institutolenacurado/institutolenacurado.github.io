@@ -240,7 +240,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -266,7 +266,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -443,7 +443,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -469,7 +469,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -674,7 +674,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -700,7 +700,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -1091,7 +1091,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -1117,7 +1117,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -1294,7 +1294,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -1320,7 +1320,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -1497,7 +1497,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -1523,7 +1523,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -1700,7 +1700,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -1726,7 +1726,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -2180,7 +2180,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -2206,7 +2206,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -3186,7 +3186,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -3212,7 +3212,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -3589,7 +3589,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -3615,7 +3615,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -3900,7 +3900,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -3926,7 +3926,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -4244,7 +4244,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -4270,7 +4270,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -4841,7 +4841,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -4867,7 +4867,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -5142,7 +5142,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -5168,7 +5168,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -5775,7 +5775,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -5801,7 +5801,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -6591,7 +6591,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -6617,7 +6617,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -6873,7 +6873,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -6899,7 +6899,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
@@ -7139,7 +7139,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -7165,7 +7165,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 32 654 987<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
           "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
           "_tags": [
             "Theme"
