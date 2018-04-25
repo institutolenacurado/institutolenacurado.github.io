@@ -4708,44 +4708,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title DIV": {
-              "font-size": "24px",
-              "color": "#f3c649"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "\"ACORDE\"\n<div>Saia da sua zona de conforto! Saia da sua vidinha medíocre! \n</div><div>Se você pode ir mais, por que se contentar</div><div>com o “mais ou menos”?!</div>",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Layout"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-76"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
