@@ -4423,7 +4423,7 @@
             "overlayOpacity": 0.5
           },
           "title": "WORKSHOPS",
-          "text": "<span style=\"font-style: normal;\"><b>Contrate um Workshop para sua Empresa seu colaboradores,</b></span><br><span style=\"font-style: normal;\"><b>na sua Associação, para a sua Escola, &nbsp;<br>na sua Cidade ou no seu Evento. \n<br>Possibilidade de customização do conteúdo da sessão de workshop.</b></span><br>",
+          "text": "<span style=\"font-style: normal;\"><b>Contrate um Workshop para sua Empresa&nbsp;</b></span><span style=\"font-style: normal;\"><b>na sua Associação, </b></span><br><span style=\"font-style: normal;\"><b>para a sua Escola, na sua Cidade ou no seu Evento. \n<br>Possibilidade de customização do conteúdo da sessão de workshop.</b></span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACTAR AGORA</a>",
           "_tags": [
             "Theme"
@@ -4433,16 +4433,17 @@
           "_styles": {
             ".mbr-section-lead": {
               "color": "#000000",
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "left"
             },
             ".mbr-section-title": {
-              "color": "#2e2e2e"
+              "color": "#ffffff"
             },
             ".mbr-section-lead B": {
               "font-size": "25px"
             },
             ".mbr-section-lead SPAN": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }

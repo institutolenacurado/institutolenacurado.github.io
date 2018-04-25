@@ -1614,15 +1614,16 @@ h6,
 #header1-5m .mbr-section-lead {
   color: #000000;
   font-size: 30px;
+  text-align: left;
 }
 #header1-5m .mbr-section-title {
-  color: #2e2e2e;
+  color: #ffffff;
 }
 #header1-5m .mbr-section-lead B {
   font-size: 25px;
 }
 #header1-5m .mbr-section-lead SPAN {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Montserrat', sans-serif;
 }
 #header3-5p .mbr-section-title,
