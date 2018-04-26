@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 266,
+    "uniqCompNum": 267,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -4188,8 +4188,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#2e2e2e"
           },
           "text1": "<p><b>GERAL\n</b></p><p>Entidade Formadora: LCI - Metodo VMD\n</p><p>Formador(es): Lena Curado<span style=\"font-size: 1.07rem;\">&nbsp;&nbsp;</span></p><p>Área de Formação: Desenvolvimento Humano</p>",
@@ -4208,8 +4208,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#2e2e2e"
           },
           "text1": "<p><b>MODALIDADE DA FORMAÇÃO\n</b></p><p>Inicial\n</p><p>Aperfeiçoamento\n</p><p>Formação Contínua/Atualização</p>",
@@ -4227,8 +4227,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#2e2e2e"
           },
           "text1": "<p><b>CERTIFICADO\n</b></p><p>Certificado de presença no final dos 4 workshops e só para quem frequentou 80% das sessões.</p>",
@@ -4247,22 +4247,19 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#2e2e2e"
           },
-          "text1": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><b>RECURSOS MATERIAIS E PEDAGÓGICOS</b></p><p>Projecção de Power Point, com recurso ao Projector de Vídeo;\n</p><p>Flip Chart\n</p><p>Manual de apoio</p><p>Inclui: Manuais em Pdf </p><p>(Imprima o seu manual que esta por baixo de cada sessão de workshop)\n</p><p> \n</p><p> \n</p>",
-          "text2": "<p><br></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p> \n</p>",
-          "text3": "<p><br></p><p><br></p><p><b>LOCAL</b></p><p>Empresas</p><p>Escolas</p><p>Universidades</p><p>Eventos</p><p>Acossiacoes</p><p>Abertas ao publico</p><p> \n</p>",
+          "text1": "<p><b>RECURSOS MATERIAIS E PEDAGÓGICOS\n</b></p><p>Projecção de Power Point, com recurso ao Projector de Vídeo;\n</p><p>Quadro Flipchart,&nbsp;<span style=\"font-size: 1.07rem;\">Manuais em Pdf.</span></p><p>(Imprima o seu manual que esta por baixo de cada sessão de workshop antes da sessao)</p>",
+          "text2": "<p><b>LOCAL\n</b></p><p>Empresas, Eventos</p><p>Escolas,&nbsp;<span style=\"font-size: 1.07rem;\">Universidades</span></p><p>Acossiacoes\n</p><p>Abertas ao publico</p>",
           "_tags": [
-            "Theme"
+            "Layout"
           ],
-          "_name": "content7",
-          "_anchor": "content7-5t",
+          "_name": "content6",
+          "_anchor": "content6-7e",
           "_styles": {
             "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#ffffff"
             }
           }
@@ -4273,7 +4270,7 @@
             "paddingBottom": 1,
             "bgColor": "#2e2e2e"
           },
-          "text": "<p><b>MÉTODOS DE AVALIAÇÃO</b></p><p><b>Avaliação aos Formandos:</b> Não aplicável\n</p><p><b>Avaliação da Formação: </b>Preenchimento do Questionário de Avaliação Formando, pelos formandos, no final da ação de formação;\n</p><p>Questionário de Avaliação Formador, a preencher no final da mesma pelo formador.</p><p><br></p><p><b>CONDIÇÕES DE PARTICIPAÇÃO\n</b></p><p><br></p><p><b>ASSIDUIDADE\n</b></p><p>Após a ação de formação será atribuído um Certificado aos formandos que assistam a pelo menos 80% da sua duração total; no caso,\n</p><p>de ações de formação que contemplem avaliação aos formandos, mantém-se a mesma regra da assiduidade (80%), mas o formando\n</p><p>terá de concluir a ação de formação com aproveitamento.\n</p><p>Este Certificado será entregue ao formando desde que cumpridas as condições de participação.</p><p><br></p><p><b>CANCELAMENTO DAS AÇÕES DE FORMAÇÃO\n</b></p><p>A participação no curso está dependente da confirmação, por escrito, da sua realização e disponibilidade de lugares.\n</p><p>A ACIF-CCIM reserva o direito de cancelar as ações de formação até três dias antes do início das mesmas, comprometendo-se, neste\n</p><p>caso, a devolver a importância cobrada.\n</p><p><br></p><p><b>SELEÇÃO DE FORMANDOS\n</b></p><p>No processo de seleção será dada prioridade a: 1º) cumprimento dos requisitos mínimos divulgados no programa; 2º) associados da\n</p><p>ACIF-CCIM; 3º) ordem de chegada das inscrições.\n</p><p><b>NOTA:</b> Numa 1ª fase, serão aceites apenas 2 inscrições por entidade. Posteriormente, havendo vagas, poderão ser aceites mais\n</p><p>inscrições.&nbsp;</p><p><br></p><p><b>PAGAMENTO E CANCELAMENTO DAS INSCRIÇÕES\n</b></p><p><br></p><p><b>PREÇO POR INSCRIÇÃO (Inscricoes limitadas)</b></p><p><b><br></b></p><p><b>Valor das Sessoes de apresentacao da \"Metodologia VMD\"</b></p><p>(1kg de alimentos nao pereciveis)\n</p><p>Os alimentos entregues sao para a associacao da localidade onde e menistrado do workshop.</p><p><br></p><p>Faça o workshop Introdução completo (4 sessoes) do Treinamento VMD-PNL e ganhe desconto de 10% no Programa total de Coaching avançado \"Viver Melhor Definitivamente com PNL\".</p><p>Garantia de 100% de satisfação ou seu dinheiro de volta, ao final do curso.</p><p><b><br></b></p><p><b>Valor das sessoes para empresas ou convivios particulares</b></p><p>Um Workshop – € 40,00\n</p><p>Quatro Workshop – €140,00</p><p><br></p><p>1) Todos os custos de participação indicados estão isentos de IVA (cfr. Art. 9º do CIVA);&nbsp;</p><p><b><br></b></p><p>2) Desconto de 10% para as entidades com 3 ou mais inscrições na mesma ação (não acumulável), desde que a ação não seja objeto\n</p><p>de financiamento pelo FSE ou outro Fundo;</p><p><br></p><p>\n</p><p>3) O pagamento das inscrições deve ser feito em dinheiro, multibanco, por cheque à ordem da ACIF-CCIM ou por transferência\n</p><p>bancária, através do NIB 0038 0001 21369876771 12 (Por favor, enviar por fax: 291206868 ou por e-mail: geral@acif-ccim.pt o\n</p><p>comprovativo da transferência);</p><p><br></p><p>\n</p><p>4) As inscrições deverão ser pagas até 5 dias úteis antes do início da ação de formação; Caso não seja regularizado o pagamento\n</p><p>dentro do prazo estipulado, a ACIF-CCIM reserva o direito de anular a respetiva inscrição;</p><p><br></p><p>\n</p><p>5) Desistências\n</p><p>a) As desistências deverão ser comunicadas à ACIF-CCIM, por escrito;\n</p><p>b) Nas desistências comunicadas até 5 dias úteis antes do início da ação de formação, será devolvido o valor pago;\n</p><p>c) Nas desistências comunicadas entre o 4º e o último dia útil da data de início da ação de formação, será devolvido 50% do\n</p><p>valor pago;\n</p><p>d) As desistências não comunicadas ou comunicadas a partir da data de início da ação de formação, não serão alvo de\n</p><p>qualquer reembolso.&nbsp;</p><p><br></p><p><b>MAIS INFORMAÇÕES</b></p><p>Inscrições pelo email consulting@lenacurado.com\n</p><p>Mais informação pelo watsap +34 963852741</p><p><br></p><p><b>Traga um ou mais amigos</b></p><p><b>VAGAS LIMITADAS!</b></p><p><b><br></b></p><p><b>Momentos que farão uma grande diferença no mundo interno das pessoas e que as ajudarão a direcionar a energia emocional para realizar seus SONHOS, e acima de tudo, serem saudáveis e FELIZES.\n</b></p><p><b>\n</b></p><p><b>Conecte-se direto com VOCÊ.</b></p><p> \n</p>",
+          "text": "<p><b>MÉTODOS DE AVALIAÇÃO</b></p><p>Avaliação aos Formandos: Não aplicável\n</p><p>Avaliação da Formação:<b> </b>Preenchimento do Questionário de Avaliação Formando, pelos formandos, no final da ação de formação;\n</p><p>Questionário de Avaliação Formador, a preencher no final da mesma pelo formando.</p><p><br></p><p><b>CONDIÇÕES DE PARTICIPAÇÃO\n</b></p><p><br></p><p><b>ASSIDUIDADE\n</b></p><p>Após a ação de formação será atribuído um Certificado aos formandos que assistam a pelo menos 80% da sua duração total; no caso,\n</p><p>de ações de formação que contemplem avaliação aos formandos, mantém-se a mesma regra da assiduidade (80%), mas o formando\n</p><p>terá de concluir a ação de formação com aproveitamento.\n</p><p>Este Certificado será entregue ao formando desde que cumpridas as condições de participação.</p><p><br></p><p><b>CANCELAMENTO DAS AÇÕES DE FORMAÇÃO\n</b></p><p>A participação no curso está dependente da confirmação, por escrito, da sua realização e disponibilidade de lugares.\n</p><p>A ACIF-CCIM reserva o direito de cancelar as ações de formação até três dias antes do início das mesmas, comprometendo-se, neste\n</p><p>caso, a devolver a importância cobrada.\n</p><p><br></p><p><b>SELEÇÃO DE FORMANDOS\n</b></p><p>No processo de seleção será dada prioridade a: 1º) cumprimento dos requisitos mínimos divulgados no programa; 2º) associados da\n</p><p>ACIF-CCIM; 3º) ordem de chegada das inscrições.\n</p><p><b>NOTA:</b> Numa 1ª fase, serão aceites apenas 2 inscrições por entidade. Posteriormente, havendo vagas, poderão ser aceites mais\n</p><p>inscrições.&nbsp;</p><p><br></p><p><b>PAGAMENTO E CANCELAMENTO DAS INSCRIÇÕES\n</b></p><p><br></p><p><b>PREÇO POR INSCRIÇÃO (Inscricoes limitadas)</b></p><p><b><br></b></p><p><b>Valor das Sessoes de apresentacao da \"Metodologia VMD\"</b></p><p>(1kg de alimentos nao pereciveis)\n</p><p>Os alimentos entregues sao para a associacao da localidade onde e menistrado do workshop.</p><p><br></p><p>Faça o workshop Introdução completo (4 sessoes) do Treinamento VMD-PNL e ganhe desconto de 10% no Programa total de Coaching avançado \"Viver Melhor Definitivamente com PNL\".</p><p>Garantia de 100% de satisfação ou seu dinheiro de volta, ao final do curso.</p><p><b><br></b></p><p><b>Valor das sessoes para empresas ou convivios particulares</b></p><p>Um Workshop – € 40,00\n</p><p>Quatro Workshop – €140,00</p><p><br></p><p>1) Todos os custos de participação indicados estão isentos de IVA (cfr. Art. 9º do CIVA);&nbsp;</p><p><b><br></b></p><p>2) Desconto de 10% para as entidades com 3 ou mais inscrições na mesma ação (não acumulável), desde que a ação não seja objeto\n</p><p>de financiamento pelo FSE ou outro Fundo;</p><p><br></p><p>\n</p><p>3) O pagamento das inscrições deve ser feito em dinheiro, multibanco, por cheque à ordem da ACIF-CCIM ou por transferência\n</p><p>bancária, através do NIB 0038 0001 21369876771 12 (Por favor, enviar por fax: 291206868 ou por e-mail: geral@acif-ccim.pt o\n</p><p>comprovativo da transferência);</p><p><br></p><p>\n</p><p>4) As inscrições deverão ser pagas até 5 dias úteis antes do início da ação de formação; Caso não seja regularizado o pagamento\n</p><p>dentro do prazo estipulado, a ACIF-CCIM reserva o direito de anular a respetiva inscrição;</p><p><br></p><p>\n</p><p>5) Desistências\n</p><p>a) As desistências deverão ser comunicadas à ACIF-CCIM, por escrito;\n</p><p>b) Nas desistências comunicadas até 5 dias úteis antes do início da ação de formação, será devolvido o valor pago;\n</p><p>c) Nas desistências comunicadas entre o 4º e o último dia útil da data de início da ação de formação, será devolvido 50% do\n</p><p>valor pago;\n</p><p>d) As desistências não comunicadas ou comunicadas a partir da data de início da ação de formação, não serão alvo de\n</p><p>qualquer reembolso.&nbsp;</p><p><br></p><p><b>MAIS INFORMAÇÕES</b></p><p>Inscrições pelo email consulting@lenacurado.com\n</p><p>Mais informação pelo watsap +34 963852741</p><p><br></p><p><b>Traga um ou mais amigos</b></p><p><b>VAGAS LIMITADAS!</b></p><p><b><br></b></p><p><b>Momentos que farão uma grande diferença no mundo interno das pessoas e que as ajudarão a direcionar a energia emocional para realizar seus SONHOS, e acima de tudo, serem saudáveis e FELIZES.\n</b></p><p><b>\n</b></p><p><b>Conecte-se direto com VOCÊ.</b></p><p> \n</p>",
           "_tags": [
             "Theme"
           ],
