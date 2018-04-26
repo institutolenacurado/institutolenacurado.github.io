@@ -623,6 +623,12 @@ h6,
 #header3-3e .mbr-section-subtitle {
   text-align: center;
 }
+#header3-3e .mbr-section-title {
+  color: #ffffff;
+}
+#content1-78 P {
+  color: #ffffff;
+}
 #contacts1-3a P {
   color: #607e41;
 }
@@ -1441,7 +1447,6 @@ h6,
 
 
 
-
 #menu-5j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1541,13 +1546,20 @@ h6,
   font-family: 'Montserrat', sans-serif;
   text-align: left;
 }
-#content1-5v P {
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-}
 #content2-74 BLOCKQUOTE {
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
+}
+#content6-7a P {
+  color: #ffffff;
+  text-align: right;
+}
+#content6-7c P {
+  color: #ffffff;
+}
+#content6-7d P {
+  text-align: right;
+  color: #ffffff;
 }
 #content7-5t P {
   font-family: 'Montserrat', sans-serif;

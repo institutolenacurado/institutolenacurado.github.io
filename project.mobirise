@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "tenhoopoder.html",
+    "currentPage": "workshopagenda.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 259,
+    "uniqCompNum": 266,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -642,13 +642,16 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#2e2e2e"
           },
           "title": "Title with Solid Background Color",
           "meta": "Com o seguinte conteúdo programático: ",
@@ -657,6 +660,24 @@
           ],
           "_name": "header3",
           "_anchor": "header3-3e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<p>Workshop RN em Grupo:\n</p><p>Estrutura:\n</p><p>Turmas com até 10 (dez) participantes\n</p><p>Carga horária de 8 horas (1 dia de curso, 9:00 - 18:00h)\n</p><p>Teoria e prática – alunos poderão fotografar\n</p><p>Um bebês a ser fotografado\n</p><p>Temas Abordados:\n</p><p>Conhecimento sobre os recém-nascidos, técnicas para acalmar e fazer dormir\n</p><p>Segurança: como posicionar os bebês\n</p><p>Boas práticas e dicas sobre comportamento antes e durante a sessão\n</p><p>Noções básicas de fotografia e equipamentos fotográficos\n</p><p>Equipamentos necessários na sessão\n</p><p>Figurinos e acessórios\n</p><p>Fluxo de trabalho na pós-produção\n</p><p>Tratamento das imagens\n</p><p>Investimento:\n</p><p>O valor total é de R$ 1.700,00\n</p><p>Forma de pagamento: Sinal de 20% para garantir a vaga.\n</p><p>O restante na data do curso, em cheque, ou dividido em 3 vezes no cartão de crédito.\n</p><p>Este valor inclui uma apostila com o resumo de todos os assuntos tratados durante o WS e todas as dicas de\n</p><p>fornecedores e materiais utilizados.\n</p><p>Obs. Este valor refere-se aos workshops realizados em nosso estúdio. Workshops realizados em outras localidades\n</p><p>poderão sofrer alterações.\n</p><p>Local:\n</p><p>Nosso estúdio no Alto de Pinheiros, SP\n</p><p>Datas:\n</p><p>Para informações sobre datas e disponibilidades, por favor, entre em contato conosco.</p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-78",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -4147,31 +4168,11 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
-          },
-          "text": "<p><b>ATIVIDADES DAS SESSÕES</b></p><p><b><br></b></p><p>1) Boas Vindas\n</p><p>2) Apresentação da Formação e História do Método VMD e os seus Benefícios na saúde física, mental, emocional e espiritual)\n</p><p>3) Apresentação da missão do Instituto Lena Curado e do Método VMD - Terapia de coaching em grupo.\n</p><p>4) Apresentação dos participantes\n</p><p>5) Apresentação dos objectivos do workshop (Missão, Método).</p><p>6) Definindo a avaliação baseada em métodos mistos.</p><p>5) Dinamica: Meditacao \"Gratidao\"</p><p>\n</p><p>7) Exposição: Momento de reflexão conjunta sobre o tema do dia.</p><p>8) Exposição: Conteúdo do tema do dia.</p><p>\n</p><p>9) Dinamicas: Organização dos formandos para dinâmica de grupos.</p><p>8) Dinamica: Meditacao \"Gratidao\"</p><p>10) Conclusão: Conclusão do workshop reforçando a ideia do conteúdo do workshop, Informação sobre o próximo workshop.\n</p><p>11) Despedida e com entrega de lembrança simbólica de presença.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5v",
-          "_styles": {
-            "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#2e2e2e"
           },
-          "text": "<blockquote>OBJETIVOS\n</blockquote><blockquote>Gerais e específicos: No final da acção os participantes vão ser capazes de reconhecer mais e melhores competências na gestão económica das organizações.\n</blockquote><blockquote>Este Workshop tem um carácter informativo e entrega de conteúdo sobre o treinamento “VMD\" (Viver Melhor Definitivamente).\n</blockquote><blockquote>Este curso visa introduzir a metodologia da Programação Neurolingüística – PNL, dando ênfase à parte de comunicação interna e interpessoal com teoria e prática, e apresenta algumas técnicas de mudança pessoal.\n</blockquote><blockquote>O participante obterá uma compreensão do funcionamento do cérebro humano, e, conseqüentemente, passará a “dirigir seu próprio carro” e alcançar metas mais facilmente.</blockquote>",
+          "text": "<blockquote>OBJETIVOS\n</blockquote><blockquote>Gerais e específicos: No final da acção os participantes vão ser capazes de reconhecer mais e melhor as suas &nbsp;competências.</blockquote><blockquote><p>Este Workshop tem um carácter informativo e entrega de conteúdo sobre o processo de </p><p>Coaching “VMD\" (Viver Melhor Definitivamente).\n</p></blockquote><blockquote>Este curso visa introduzir a metodologia da Programação Neurolingüística – PNL, dando ênfase à parte de comunicação interna e interpessoal com teoria e prática, e apresenta algumas técnicas de mudança pessoal.\n</blockquote><blockquote>O participante obterá uma compreensão do funcionamento do cérebro humano, e, conseqüentemente, passará a “dirigir seu próprio carro” e alcançar metas mais facilmente.</blockquote>",
           "_tags": [
             "Layout"
           ],
@@ -4191,9 +4192,68 @@
             "paddingBottom": 1,
             "bgColor": "#2e2e2e"
           },
-          "text1": "<p><b>GERAL</b></p><p>Entidade Formadora: IDHLC-VMD</p><p>Formador(es): </p><p>Master Coach Lena Curado</p><p>Área de Formação:</p><p>Desenvolvimento Humano</p><p><br></p><p><br></p><p><br></p><p><b>MODALIDADE DA FORMAÇÃO</b></p><p>Inicial\n</p><p>Aperfeiçoamento\n</p><p>Formação Contínua/Atualização</p><p><br></p><p><b>RECURSOS MATERIAIS E PEDAGÓGICOS</b></p><p>Projecção de Power Point, com recurso ao Projector de Vídeo;\n</p><p>Flip Chart\n</p><p>Manual de apoio</p><p>Inclui: Manuais em Pdf </p><p>(Imprima o seu manual que esta por baixo de cada sessão de workshop)\n</p><p> \n</p><p> \n</p>",
-          "text2": "<p><b>DESTINATÁRIOS</b></p><p>Todas as pessoas que pretendam reaprenderem a se amar incondicionalmente.\n</p><p>Pessoas que queiram aprofundar conhecimentos sobre os Benefícios da auto-ajuda. Requisitos Mínimos Não aplicável.</p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><b>FORMA DE ORGANIZAÇÃO DA FORMAÇÃO</b></p><p>Presencial</p><p><br></p><p><br></p><p><b>CERTIFICADO</b></p><p>Certificado de presença no final dos 4 workshops e só para quem frequentou 80% das sessões.</p><p><br></p><p> \n</p>",
-          "text3": "<p><b style=\"font-size: 1.07rem;\">MÉTODOS PEDAGÓGICOS</b><span style=\"font-size: 1.07rem;\">&nbsp;</span><br></p><p>Afirmativo\n</p><p>Interrogativo\n</p><p>Ativo</p><p><br></p><p><b>LOCAL</b></p><p>Empresas</p><p>Escolas</p><p>Universidades</p><p>Eventos</p><p>Acossiacoes</p><p>Abertas ao publico</p><p> \n</p>",
+          "text1": "<p><b>GERAL\n</b></p><p>Entidade Formadora: LCI - Metodo VMD\n</p><p>Formador(es): Lena Curado<span style=\"font-size: 1.07rem;\">&nbsp;&nbsp;</span></p><p>Área de Formação: Desenvolvimento Humano</p>",
+          "text2": "<p><b>DESTINATÁRIOS\n</b></p><p>Todas as pessoas que pretendam reaprenderem a se amar incondicionalmente.&nbsp;<span style=\"font-size: 1.07rem;\">Pessoas que queiram aprofundar conhecimentos sobre os Benefícios da auto-ajuda. </span></p><p><span style=\"font-size: 1.07rem;\">Requisitos Mínimos Não aplicável.</span></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-7a",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text1": "<p><b>MODALIDADE DA FORMAÇÃO\n</b></p><p>Inicial\n</p><p>Aperfeiçoamento\n</p><p>Formação Contínua/Atualização</p>",
+          "text2": "<p><b>MÉTODOS PEDAGÓGICOS \n</b></p><p>Afirmativo\n</p><p>Interrogativo\n</p><p>Ativo</p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-7c",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text1": "<p><b>CERTIFICADO\n</b></p><p>Certificado de presença no final dos 4 workshops e só para quem frequentou 80% das sessões.</p>",
+          "text2": "<p><b>FORMA DE ORGANIZAÇÃO DA FORMAÇÃO\n</b></p><p>Presencial</p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-7d",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text1": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><b>RECURSOS MATERIAIS E PEDAGÓGICOS</b></p><p>Projecção de Power Point, com recurso ao Projector de Vídeo;\n</p><p>Flip Chart\n</p><p>Manual de apoio</p><p>Inclui: Manuais em Pdf </p><p>(Imprima o seu manual que esta por baixo de cada sessão de workshop)\n</p><p> \n</p><p> \n</p>",
+          "text2": "<p><br></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p> \n</p>",
+          "text3": "<p><br></p><p><br></p><p><b>LOCAL</b></p><p>Empresas</p><p>Escolas</p><p>Universidades</p><p>Eventos</p><p>Acossiacoes</p><p>Abertas ao publico</p><p> \n</p>",
           "_tags": [
             "Theme"
           ],
