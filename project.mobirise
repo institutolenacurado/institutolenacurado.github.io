@@ -2527,7 +2527,7 @@
           },
           "title": "ESCOLHA A MELHOR PALESTRA \n<div>PARA A SUA EMPRESA!</div>",
           "text": "<span style=\"font-style: normal;\">Você escolhe o tema que melhor atenda suas necessidades para que sua equipe possa aproveitar ao máximo, alcançando resultados mais práticos e produtivos.</span>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">QUERO CONHECER MAIS PALESTRAS</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contato.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO CONHECER MAIS PALESTRAS</a>",
           "_tags": [
             "Theme"
           ],
@@ -2650,7 +2650,7 @@
           },
           "title": "Inscreva-se para Receber Material Grátis!",
           "text": "Receba Material Gratuito com Dicas e Ferramentas de Coaching e Liderança, <br>diretamente em seu email.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">QUERO ME INSCREVER AGORA</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contato.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO ME INSCREVER AGORA</a>",
           "_tags": [
             "Theme"
           ],
@@ -2679,7 +2679,7 @@
           },
           "title": "LENA CURADO<div>Master Coach-Palestrante</div>",
           "text": "Sessão Gratuita de Coaching\n<br>Tome a atitude CERTA!\n<br>Invista em VOCÊ E NA SUA EQUIPA!\n<br>Entre em contato e\nAGENDE sua PALESTRA!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">30m COACHING GRATUITO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PEDIR ORÇAMENTO </a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"contato.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">30m COACHING GRATUITO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"contato.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PEDIR ORÇAMENTO </a>",
           "_tags": [
             "Theme"
           ],
@@ -2709,7 +2709,7 @@
           },
           "title": "",
           "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faça a si mesmo as seguintes perguntas</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOCÊ?</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"workshopagenda.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOCÊ?</a>",
           "_tags": [
             "Theme"
           ],
