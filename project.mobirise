@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "tenhoopoder.html",
+    "currentPage": "page18.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 267,
+    "uniqCompNum": 272,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -1926,7 +1926,7 @@
             "paddingBottom": "7",
             "bgColor": "#2e2e2e"
           },
-          "text": "<p><b>Nossa Missão</b> é o Foco no ser humano e nos resultados reais!</p><p><br></p><p>\n</p><p>\n</p><p><b>Lena Curado institut</b> é uma das principais companhias de Coaching e de treinamento a nível internacional para o Desenvolvimento humano como por exemplo o Auto Conhecimento. Somos uma Equipa Experiente, um Instituto de Excelência.</p><p><br></p><p>\n</p><p>\n</p><p><b>O LCI</b>&nbsp;é um centro que oferece seus treinamentos na América, Suíça, Luxemburgo, Reino Unido, França, Espanha e Portugal, através de uma vasta equipa de profissionais, Coaches para todos os níveis Pessoal e Empresarial. Estamos comprometidos em contribuir com o desenvolvimento em seu máximo nível visando o completo bem-estar físico, mental e social atingindo assim patamares de excelência de vida.</p>",
+          "text": "<p><b>Nossa Missão</b> é o Foco no ser humano e nos resultados reais!</p><p><br></p><p>\n</p><p>\n</p><p><b>Lena Curado institut</b> é uma das principais companhias de Coaching e de treinamento a nível internacional para o Desenvolvimento humano como por exemplo o Auto Conhecimento. </p><p>Somos uma Equipa Experiente, um Instituto de Excelência.</p><p><br></p><p>\n</p><p>\n</p><p><b>O LCI</b>&nbsp;é um centro que oferece seus treinamentos na América, Suíça, Luxemburgo, Reino Unido, França, Espanha e Portugal, através de uma vasta equipa de profissionais, Coaches para todos os níveis Pessoal e Empresarial. Estamos comprometidos em contribuir com o desenvolvimento em seu máximo nível visando o completo bem-estar físico, mental e social atingindo assim patamares de excelência de vida.</p>",
           "_tags": [
             "Theme"
           ],
@@ -2147,7 +2147,7 @@
             "showButtons": false,
             "iconsBgColor": "@primaryColor",
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
@@ -2298,7 +2298,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "7",
+            "paddingTop": "0",
             "paddingBottom": "7",
             "bgColor": "#2e2e2e"
           },
@@ -2343,7 +2343,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": "1",
             "paddingBottom": "0",
             "columns": 4,
@@ -2431,7 +2431,7 @@
           "caption3": "<b>Grupos Empresariais e Pessoas Anónimos.</b>\n<br>Através de Palestras, workshops ou Treinamentos vamos adquirir conhecimento para ganhar mais qualidade de vida e dinheiro através da melhor gestão do tempo, pois tempo e dinheiro é saúde.",
           "title4": "VMD-AOT<br>RECICLAGEM DE CONHECIMENTOS",
           "subtitle4": "<b style=\"font-style: normal;\">\"ACOMPANHAR OS TEMPOS\"</b><br>",
-          "caption4": "<b>Grupos Empresariais e Coaching individual.</b> \n<br>Neste Treinamento ou Workshop vamos desenvolver e actualizar os conhecimentos dos colaboradores seniores das empresas. A idade madura nos convida a uma reflexão sobre como vamos percorrer esta nova fase da vida. \n<br>É inegável que a perspectiva de longevidade aliada às nossas capacidades pessoal, profissional e intelectual nos questionam como será a dinâmica de nossa carreira fora de um script antes seguido sem reflexão.<br> ",
+          "caption4": "<b>Grupos Empresariais e Coaching individual.</b> \n<br>Neste Treinamento ou Workshop vamos desenvolver e actualizar os conhecimentos dos colaboradores seniores das empresas. A idade madura nos convida a uma reflexão sobre como vamos percorrer esta nova fase da vida. \n<br>É inegável que a perspectiva de longevidade ...<br> ",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -2441,7 +2441,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONTINUAR A LER AQUI</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -7259,6 +7259,214 @@
             }
           },
           "_anchor": "footer1-55"
+        }
+      ]
+    },
+    "page18.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "9-Acompanhar os tempos",
+        "order": 18
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#607e41!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2e2e2e",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"quemsomos.html\" target=\"_blank\">QUEM SOMOS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TREINAMENTOS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tempoparaquetequero.html\" target=\"_blank\">01 - Tempo para que te quero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tenhoopoder.html\" target=\"_blank\">08 - Tenho o Poder</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"consulturiapro.html\" aria-expanded=\"false\" target=\"_blank\">CONSULTORIA PRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palestracostumizada.html\" aria-expanded=\"false\" target=\"_blank\">PALESTRA COSTUMIZADA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"workshopagenda.html\" aria-expanded=\"false\" target=\"_blank\">WORKSHOP AGENDA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\" aria-expanded=\"false\" target=\"_blank\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page6.html\" target=\"_blank\">CONTATO</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/instituto-dedesenvolvimentohumano-1-800x100.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-7f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/palestrante-e-coache-helena-silva-600x382.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "\"ACOMPANHAR OS TEMPOS\"",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-7i",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Grupos Empresariais e Coaching individual. \r</p><p>Neste Treinamento ou Workshop vamos desenvolver e actualizar os conhecimentos dos colaboradores seniores das empresas. A idade madura nos convida a uma reflexão sobre como vamos percorrer esta nova fase da vida. \r</p><p>É inegável que a perspectiva de longevidade aliada às nossas capacidades pessoal, profissional e intelectual nos questionam como será a dinâmica de nossa carreira fora de um script antes seguido sem reflexão.</p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7j"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/instituto-lena-curado-128x108.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Rua Fernao de Magalhaes <br>Nr.1 Bloco Poente<br>2800-351 Monte Gordo - Algarve&nbsp;",
+          "text2": "<strong>Contacts</strong><br>\nEmail: consulting@lenacurado.com<br>TLM: (34) 656 658 745<br><br>",
+          "text3": "<strong>Link</strong><br><a href=\"http://www.vivermelhordefinitivamente.com\" target=\"_blank\">Blogue VMD</a><br>Newsletter<br>Palestrante Lena Curado",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#607e41"
+            }
+          },
+          "_anchor": "contacts1-7g"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-7h"
         }
       ]
     }
