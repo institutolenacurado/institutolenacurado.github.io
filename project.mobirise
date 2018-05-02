@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "page19.html",
+    "currentPage": "page18.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 277,
+    "uniqCompNum": 278,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -7403,6 +7403,69 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
+          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 656 65 87 45 - 691 34 67 64 \n<br>Também pode contatar pelo correio electrónico consulting@lenacurado.com",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR AGORA</a>",
+          "form": {
+            "action": "consulting@lenacurado.com",
+            "alerts": {
+              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Subrenome, Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "TLM*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço ou duvida que queira esclarecer se inscrever, Obrigado."
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-7p"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -7566,7 +7629,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,

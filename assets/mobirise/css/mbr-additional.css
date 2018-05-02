@@ -2326,6 +2326,15 @@ h6,
 #header1-7i .mbr-section-title {
   color: #000000;
 }
+#form1-7p .form-control-label {
+  color: #ffffff;
+}
+#form1-7p .mbr-section-title {
+  color: #ffffff;
+}
+#form1-7p SMALL {
+  color: #ffffff;
+}
 #contacts1-7g P {
   color: #607e41;
 }
