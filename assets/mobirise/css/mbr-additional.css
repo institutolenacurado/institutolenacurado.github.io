@@ -2405,6 +2405,15 @@ h6,
 #header1-7n .mbr-section-title {
   font-size: 60px;
 }
+#form1-7q .form-control-label {
+  color: #ffffff;
+}
+#form1-7q .mbr-section-title {
+  color: #ffffff;
+}
+#form1-7q SMALL {
+  color: #ffffff;
+}
 #contacts1-7l P {
   color: #607e41;
 }

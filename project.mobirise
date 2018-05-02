@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "page18.html",
+    "currentPage": "page19.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 278,
+    "uniqCompNum": 279,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -45,7 +45,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "04 - Sucesso em vendas com motivacao",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -310,7 +310,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "03 - Transacao da carreira",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -513,7 +513,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "02 - Atendimento 10 Estrelas",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -765,7 +765,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "VOCÊ?",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -1182,7 +1182,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "05 - Chefia e Liderança",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -1385,7 +1385,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "06 - Etiqueta social",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -1588,7 +1588,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "07 - Sistema Kanban",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -2797,7 +2797,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "01 - Tempo para que te quero",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -3200,7 +3200,7 @@
       "settings": {
         "meta_descr": "Imagine receber orientações de um profissional que vive o seu mercado, que é especialista nele, que já passou por todas as dificuldades, testou, aplicou, e sabe o que funciona e o que não funciona para sua equipe vender mais. ",
         "title": "Consulturia Pro",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -3511,7 +3511,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Palestra Costumizada",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -3855,7 +3855,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Workshop Agenda",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -4488,7 +4488,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Palestra, Workshop ou Treimanento?",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -4789,7 +4789,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Mentoria, Consulting ou Coaching?",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -5422,7 +5422,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Como trabalhamos?",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -6238,7 +6238,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Lena Curado",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -6520,7 +6520,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Contato",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -6786,7 +6786,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "08 - Tenho o poder",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -7266,7 +7266,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "9-Acompanhar os tempos",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -7536,8 +7536,8 @@
     "page19.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
-        "title": "Page 19",
-        "order": 1
+        "title": "10 - Emagrecer com Saude",
+        "order": 19
       },
       "components": [
         {
@@ -7671,6 +7671,69 @@
           ],
           "_name": "content1",
           "_anchor": "content1-7o"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Receba nossas boas-vindas! <br>DIGA como Podemos ajudá-lo?!",
+          "subtitle": "Preencha o formulário ou entre em contato em um dos telefones: (34) 656 65 87 45 - 691 34 67 64 \n<br>Também pode contatar pelo correio electrónico consulting@lenacurado.com",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR AGORA</a>",
+          "form": {
+            "action": "consulting@lenacurado.com",
+            "alerts": {
+              "success": "Obrigada por preencher este formulário! Respondemos assim que possível."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Subrenome, Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "TLM*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Escreva aqui a sua mensagem com o tipo de serviço ou duvida que queira esclarecer se inscrever, Obrigado."
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-7q"
         },
         {
           "_params": {
