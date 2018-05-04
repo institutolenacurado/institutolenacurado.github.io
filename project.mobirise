@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "quemsomos.html",
+    "currentPage": "page17.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 280,
+    "uniqCompNum": 285,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -45,7 +45,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "04 - Sucesso em vendas com motivacao",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -310,7 +310,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "03 - Transacao da carreira",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -513,7 +513,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "02 - Atendimento 10 Estrelas",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -765,7 +765,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "VOCÊ?",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1182,7 +1182,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "05 - Chefia e Liderança",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -1385,7 +1385,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "06 - Etiqueta social",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -1588,7 +1588,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "07 - Sistema Kanban",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -1956,7 +1956,7 @@
             "paddingBottom": "7",
             "bgColor": "#2e2e2e"
           },
-          "text": "<p><b>Nossa Missão</b> é o Foco no ser humano e nos resultados reais!</p><p><br></p><p>\n</p><p>\n</p><p><b>Lena Curado institut</b> é uma das principais companhias de Coaching e de treinamento a nível internacional para o Desenvolvimento humano como por exemplo o Auto Conhecimento. </p><p>Somos uma Equipa Experiente, um Instituto de Excelência.</p><p><br></p><p>\n</p><p>\n</p><p><b>O LCI</b>&nbsp;é um centro que oferece seus treinamentos na América, Suíça, Luxemburgo, Reino Unido, França, Espanha e Portugal, através de uma vasta equipa de profissionais, Coaches para todos os níveis Pessoal e Empresarial. Estamos comprometidos em contribuir com o desenvolvimento em seu máximo nível visando o completo bem-estar físico, mental e social atingindo assim patamares de excelência de vida.</p>",
+          "text": "<p><b>Nossa Missão</b> é o Foco no ser humano e nos resultados reais!</p><p><br></p><p>\n</p><p>\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2827,7 +2827,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "01 - Tempo para que te quero",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3230,7 +3230,7 @@
       "settings": {
         "meta_descr": "Imagine receber orientações de um profissional que vive o seu mercado, que é especialista nele, que já passou por todas as dificuldades, testou, aplicou, e sabe o que funciona e o que não funciona para sua equipe vender mais. ",
         "title": "Consulturia Pro",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -3541,7 +3541,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Palestra Costumizada",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3885,7 +3885,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Workshop Agenda",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -4518,7 +4518,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Palestra, Workshop ou Treimanento?",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -4819,7 +4819,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Mentoria, Consulting ou Coaching?",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -5452,7 +5452,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Como trabalhamos?",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -6267,8 +6267,8 @@
     "page17.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "Lena Curado",
-        "order": 2
+        "title": "Lena Curado Institut",
+        "order": 3
       },
       "components": [
         {
@@ -6416,6 +6416,19 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><i>Lena Curado institut</i> é uma das principais companhias de Coaching e de treinamento a nível internacional para o Desenvolvimento humano como por exemplo o Auto Conhecimento.\n</p><p>Somos uma Equipa Experiente, um Instituto de Excelência.\n</p><p>\n</p><p>O LCI é um centro que oferece seus treinamentos na América, Suíça, Luxemburgo, Reino Unido, França, Espanha e Portugal, através de uma vasta equipa de profissionais, Coaches para todos os níveis Pessoal e Empresarial. Estamos comprometidos em contribuir com o desenvolvimento em seu máximo nível visando o completo bem-estar físico, mental e social atingindo assim patamares de excelência de vida.</p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7v"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#ffffff",
@@ -6550,7 +6563,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Contato",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -6816,7 +6829,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "08 - Tenho o poder",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -7296,7 +7309,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "9-Acompanhar os tempos",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -7567,7 +7580,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "10 - Emagrecer com Saude",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
