@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "page19.html",
+    "currentPage": "quemsomos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 279,
+    "uniqCompNum": 280,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -292,7 +292,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -495,7 +495,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -747,7 +747,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -1164,7 +1164,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -1367,7 +1367,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -1570,7 +1570,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -1773,7 +1773,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -1919,6 +1919,36 @@
               "font-size": "48px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Quer receber no seu e-mail mais informações sobre os Cursos em PNL?",
+          "text": "Coloque seu e-mail no campo abaixo se,",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Quero me registrar agora&nbsp;</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-7r"
         },
         {
           "_params": {
@@ -2779,7 +2809,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -3182,7 +3212,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -3493,7 +3523,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -3837,7 +3867,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -4470,7 +4500,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -4771,7 +4801,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -5404,7 +5434,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -6220,7 +6250,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -6502,7 +6532,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -6768,7 +6798,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -7248,7 +7278,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -7519,7 +7549,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
@@ -7790,7 +7820,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Todos os direitos reservados. (c) 2016 Palestrante Helena Curado.",
+          "text": "Copyright 2015~2018 - Lena Curado Institut® - Todos os Direitos Reservados",
           "_tags": [
             "Theme"
           ],
