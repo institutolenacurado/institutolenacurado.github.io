@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 291,
+    "uniqCompNum": 302,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -6250,6 +6250,64 @@
       },
       "components": [
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-844x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/helena-curado-vivermelhordefinitivamente-570x516.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "LENA CURADO",
+          "text": "International Master Coach, Trainer e Palestrante<br>Seu alto poder de comunicação transforma as suas palestras e treinamentos em conhecimentos práticos para aplicação imediata, gerando resultados positivos que impactam o ambiente de trabalho, equipes e clientes. <br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-6u",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -6335,60 +6393,69 @@
           "_anchor": "menu-6r"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "text-align": "right"
+            },
+            ".lead B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "22px"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
-            "imageSize": 50,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-844x1080.jpg",
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/helena-curado-vivermelhordefinitivamente-570x516.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "LENA CURADO",
-          "text": "International Master Coach, Trainer e Palestrante<br>Seu alto poder de comunicação transforma as suas palestras e treinamentos em conhecimentos práticos para aplicação imediata, gerando resultados positivos que impactam o ambiente de trabalho, equipes e clientes. \n<br>\n<br>\" Quero ajudar você a elevar sua frequência vibracional e remover as crenças limitantes que te impedem de ter uma vida próspera e feliz. Com ferramentas simples, ajudo você a conhecê-lo melhor, divirta-se e sinta-se capaz de obter tudo o que você propõe rapidamente. \"\n<br>Seja muito bem vinda(o)!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "title": "\" Quero ajudar você a elevar sua frequência vibracional e remover as crenças limitantes que te impedem de ter uma vida próspera e feliz. Com ferramentas simples, ajudo você a conhecê-lo melhor, divirta-se e sinta-se capaz de obter tudo o que você propõe rapidamente. \" \n<div>Seja muito bem vinda(o)!</div>",
+          "text": "<b>Lena Curado</b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
-            "Theme"
+            "Layout"
           ],
-          "_name": "header2",
-          "_anchor": "header2-6u",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-86"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>O Instituto de Desenvolvimento Humano • LCI</b></blockquote>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-84",
           "_styles": {
-            ".mbr-section-text": {
-              "font-size": "20px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            "DIV": {
+              "text-align": "left"
+            },
+            "BLOCKQUOTE": {
+              "font-size": "32px"
+            },
+            "B": {
+              "color": "#2e2e2e"
             }
           }
         },
@@ -6398,12 +6465,125 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><i><b>Lena Curado institut</b></i> é uma das principais companhias de Coaching e de treinamento a nível internacional para o Desenvolvimento humano como por exemplo o Auto Conhecimento.</p><p><br></p><p>\n</p><p>Somos uma Equipa Experiente, um Instituto de Excelência.</p><p><br></p><p>\n</p><p>\n</p><p><b>O LCI</b> oferece seus treinamentos na América, Suíça, Luxemburgo, Reino Unido, França, Espanha e Portugal, através de uma vasta equipa de profissionais, </p><p><br></p><p>Coaches para todos os níveis Pessoal e Empresarial. Estamos comprometidos em contribuir com o desenvolvimento em seu máximo nível visando o completo bem-estar físico, mental e social atingindo assim patamares de excelência de vida.</p>",
+          "text": "<p><b>O Instituto de Desenvolvimento Humano Lena Curado é uma sociedade de caráter científico-cultural destinada ao estudo, pesquisa e promoção do processo de desenvolvimento e relacionamento humanos.&nbsp;</b></p><p><b><br></b><b>Lena Curado institut é tambem uma das principais companhias de Coaching e de treinamento a nível internacional que oferece seus treinamentos na América, Suíça, Luxemburgo, Reino Unido, França, Espanha e Portugal, através de uma vasta equipa de profissionais, Coaches para todos os níveis Pessoal e Empresarial. </b></p><p><b><br></b></p><p><b>Estamos comprometidos em contribuir com o desenvolvimento em seu máximo nível visando o completo bem-estar físico, mental e social atingindo assim patamares de excelência de vida.</b></p>",
           "_tags": [
             "Layout"
           ],
           "_name": "content1",
-          "_anchor": "content1-7v"
+          "_anchor": "content1-85",
+          "_styles": {
+            "P": {
+              "color": "#2e2e2e",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Somos uma Equipa Experiente, \num Instituto de Excelência comprovada.</b></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-8d",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>PropósitoS • LCI</b></blockquote>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            },
+            "BLOCKQUOTE": {
+              "font-size": "32px"
+            },
+            "B": {
+              "color": "#2e2e2e"
+            }
+          },
+          "_anchor": "content2-89"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Trabalhar para atualização do potencial do ser humano;</b></p><p><b>Promover atividades terapêuticas e sócio-educacionais e celebrar convénios para prestação de serviços (Psicoterapia, Supervisão, Consultoria, Assessoria...);</b><br></p><p><b>Colaborar com outras Instituições, oficiais ou privadas, na realização de estudos e pesquisas, com vistas à promoção do desenvolvimento humano; \n</b></p><p><b>Manter intercâmbio científico-cultural com Instituições similares, nacionais e estrangeiras; \n</b></p><p><b>Elaborar e/ou colaborar em publicação de trabalhos e pesquisas referentes aos temas de interesse do desenvolvimento humano; \n</b></p><p><b>Organizar e ministrar cursos, workshops, palestras, seminários, jornadas, congressos e todo o tipo de eventos culturais.</b></p><p><b>Colaborar com Instituições e associações das diferentes localidades onde se ministra os eventos.</b></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#2e2e2e",
+              "font-size": "20px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-8a"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Nossos serviços • LCI</b></blockquote>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            },
+            "BLOCKQUOTE": {
+              "font-size": "32px"
+            },
+            "B": {
+              "color": "#2e2e2e"
+            }
+          },
+          "_anchor": "content2-87"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Área Clínica\n</b></p><p><b>Psicoterapia individual e em grupo: crianças, adolescentes, adultos, casal e família;\n</b></p><p><b>Orientação para pais;\n</b></p><p><b>Orientação profissional;\n</b></p><p><b>Preparação para a aposentadoria.\n</b></p><p><b>Área Empresarial\n</b></p><p><b>Diagnóstico organizacional;\n</b></p><p><b>Pesquisa de Clima Organizacional;\n</b></p><p><b>Desenvolvimento e fortalecimento de lideranças;\n</b></p><p><b>Desenvolvimento de equipes;\n</b></p><p><b>Soluções de conflitos e negociação;\n</b></p><p><b>Jogos Cooperativos;\n</b></p><p><b>Coaching de líderes executivos.\n</b></p><p><b>Área Escolar\n</b></p><p><b>Dificuldades de aprendizagem;\n</b></p><p><b>Dificuldades de inserção social e relacionamento;\n</b></p><p><b>Orientação vocacional;\n</b></p><p><b>Grupos de reflexão e apoio a professores.\n</b></p><p><b>Cursos\n</b></p><p><b>Curso Avançado de Gestão de Conflitos\n</b></p><p><b>Intervenções com Crianças e Adolescentes com Base no Sociopsicodrama\n</b></p><p><b>Especialização e formação em Sociopsicodrama\n</b></p><p><b>Informação e de divulgação do Psicodrama\n</b></p><p><b>Programação Neurolinguística - PNL</b></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#2e2e2e",
+              "font-size": "20px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-88"
         },
         {
           "_params": {
