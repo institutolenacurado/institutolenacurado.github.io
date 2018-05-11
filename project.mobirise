@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 302,
+    "uniqCompNum": 304,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -765,7 +765,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "VOCÊ?",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -2805,7 +2805,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "01 - Tempo para que te quero",
-        "order": 5
+        "order": 11
       },
       "components": [
         {
@@ -3208,7 +3208,7 @@
       "settings": {
         "meta_descr": "Imagine receber orientações de um profissional que vive o seu mercado, que é especialista nele, que já passou por todas as dificuldades, testou, aplicou, e sabe o que funciona e o que não funciona para sua equipe vender mais. ",
         "title": "Consulturia Pro",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -3519,7 +3519,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Palestra Costumizada",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -4496,7 +4496,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Palestra, Workshop ou Treimanento?",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -4797,7 +4797,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Mentoria, Consulting ou Coaching?",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -5430,7 +5430,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Como trabalhamos?",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -6571,7 +6571,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Área Clínica\n</b></p><p><b>Psicoterapia individual e em grupo: crianças, adolescentes, adultos, casal e família;\n</b></p><p><b>Orientação para pais;\n</b></p><p><b>Orientação profissional;\n</b></p><p><b>Preparação para a aposentadoria.\n</b></p><p><b>Área Empresarial\n</b></p><p><b>Diagnóstico organizacional;\n</b></p><p><b>Pesquisa de Clima Organizacional;\n</b></p><p><b>Desenvolvimento e fortalecimento de lideranças;\n</b></p><p><b>Desenvolvimento de equipes;\n</b></p><p><b>Soluções de conflitos e negociação;\n</b></p><p><b>Jogos Cooperativos;\n</b></p><p><b>Coaching de líderes executivos.\n</b></p><p><b>Área Escolar\n</b></p><p><b>Dificuldades de aprendizagem;\n</b></p><p><b>Dificuldades de inserção social e relacionamento;\n</b></p><p><b>Orientação vocacional;\n</b></p><p><b>Grupos de reflexão e apoio a professores.\n</b></p><p><b>Cursos\n</b></p><p><b>Curso Avançado de Gestão de Conflitos\n</b></p><p><b>Intervenções com Crianças e Adolescentes com Base no Sociopsicodrama\n</b></p><p><b>Especialização e formação em Sociopsicodrama\n</b></p><p><b>Informação e de divulgação do Psicodrama\n</b></p><p><b>Programação Neurolinguística - PNL</b></p>",
+          "text": "<p><b>Área Clínica\n</b></p><p>Psicoterapia individual e em grupo</p><p>(Adolescentes, adultos, casal e família);</p><p>Orientação profissional.</p><p><br></p><p><b>Área Empresarial\n</b></p><p>Diagnóstico organizacional;</p><p>Desenvolvimento e fortalecimento de lideranças;\n</p><p>Desenvolvimento de equipes;\n</p><p>Soluções de conflitos e negociação;\n</p><p>Jogos Cooperativos;\n</p><p>Coaching para equipas.</p><p><b><br></b></p><p><b>\n</b></p><p><b>Área Escolar\n</b></p><p>Dificuldades de aprendizagem;\n</p><p>Dificuldades de inserção social e relacionamento;\n</p><p>Orientação vocacional.</p>",
           "_tags": [
             "Layout"
           ],
@@ -6584,6 +6584,50 @@
             }
           },
           "_anchor": "content1-88"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Cursos • LCI</b></blockquote>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            },
+            "BLOCKQUOTE": {
+              "font-size": "32px"
+            },
+            "B": {
+              "color": "#2e2e2e"
+            }
+          },
+          "_anchor": "content2-8e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>\"Gestão de Conflitos - STOP\"</b></p><p><b>\"Tempo para que te quero\"</b></p><p><b>\"Programação Neurolinguística - PNL\"</b></p><p><b>\"Atendimento 10 Estrelas\"</b></p><p><b>\"Transacção de carreira\"</b></p><p><b>\"Etiqueta Social\"</b></p><p><b>\"Sistema Kamban\"</b></p><p><b>\"Eu tenho o poder na minha &nbsp;mão\"</b></p><p><b>\"Acompanhar os tempos\"</b></p><p><b>\"Emagrecer com Saúde\"</b></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#2e2e2e",
+              "font-size": "20px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-8f"
         },
         {
           "_params": {
