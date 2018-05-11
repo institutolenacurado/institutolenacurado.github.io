@@ -6292,7 +6292,7 @@
             }
           },
           "title": "LENA CURADO",
-          "text": "é palestrante internacional, tem formações completas em COACHING e PNL, é instrutora em Desenvolvimento Humano. <br><br>É diretora e sócio-fundadora do Lena Curado Institut Para o Desenvolvimento Integral do Ser humano, autora do livro “Viver Melhor Definitivamente” <br>e dos CDs: “Vida Nova” e “Motivação”. <br><br>Realiza palestras, seminários e cursos em várias organizações. É criadora e mantenedora de &nbsp;curso digital PNL PLUS: Os Padrões de Excelência de Uma Mente de Triunfo!<br><br>International Master Coach, Trainer e Palestrante<br>Seu alto poder de comunicação transforma as suas palestras e treinamentos em conhecimentos práticos para aplicação imediata, gerando resultados positivos que impactam o ambiente de trabalho, equipes e clientes. <br>",
+          "text": "É diretora e sócio-fundadora do Lena Curado Institut para o Desenvolvimento Integral do Ser humano, autora do livro “Viver Melhor Definitivamente” <br>e dos CDs: “Caminho da prosperidade” e “Motivação para todos”.<br><br>Lena Curado é International Master Coach, Trainer e Palestrante. Realiza palestras, seminários e cursos em várias organizações. Tem formações completas em COACHING e PNL é instrutora em Desenvolvimento Humano. Criadora e mantenedora de diferentes  cursos com base na PNL, LDA e Hipnose!<br><br>Seu alto poder de comunicação transforma as suas palestras e treinamentos em conhecimentos práticos para aplicação imediata, gerando resultados positivos que impactam o ambiente de trabalho, equipes e clientes. <br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -6303,7 +6303,11 @@
             ".mbr-section-text": {
               "font-size": "20px",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           }
         },
@@ -6398,13 +6402,17 @@
               "color": "#fff"
             },
             ".lead": {
-              "text-align": "right"
+              "text-align": "right",
+              "color": "#ffffff"
             },
             ".lead B": {
               "color": "#ffffff"
             },
             ".mbr-section-title": {
               "font-size": "22px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "23px"
             }
           },
           "_params": {
@@ -6426,8 +6434,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "\" Quero ajudar você a elevar sua frequência vibracional e remover as crenças limitantes que te impedem de ter uma vida próspera e feliz. Com ferramentas simples, ajudo você a conhecê-lo melhor, divirta-se e sinta-se capaz de obter tudo o que você propõe rapidamente. \" \n<div>Seja muito bem vinda(o)!</div>",
-          "text": "<b>Lena Curado</b>",
+          "title": "<span style=\"font-weight: normal;\">\" Quero ajudar você a elevar sua frequência vibracional e remover as crenças limitantes que te impedem de ter uma vida próspera e feliz. Com ferramentas simples, ajudo você a conhecê-lo melhor, divirta-se e sinta-se capaz de obter tudo o que você propõe rapidamente. \" \n</span><div><span style=\"font-weight: normal;\">Seja muito bem vinda(o)!</span></div>",
+          "text": "Lena Curado",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Layout"
@@ -6503,7 +6511,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b>PropósitoS • LCI</b></blockquote>",
+          "text": "<blockquote><b>Propósitos • LCI</b></blockquote>",
           "_tags": [
             "Layout"
           ],

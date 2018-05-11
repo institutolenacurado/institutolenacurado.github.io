@@ -1994,6 +1994,10 @@ h6,
 #header2-6u .mbr-section-text {
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
+  text-align: left;
+}
+#header2-6u .mbr-section-title {
+  text-align: left;
 }
 #menu-6r .hide-buttons .nav-btn {
   display: none !important;
@@ -2062,12 +2066,16 @@ h6,
 }
 #msg-box8-86 .lead {
   text-align: right;
+  color: #ffffff;
 }
 #msg-box8-86 .lead B {
   color: #ffffff;
 }
 #msg-box8-86 .mbr-section-title {
   font-size: 22px;
+}
+#msg-box8-86 .mbr-section-title SPAN {
+  font-size: 23px;
 }
 #content2-84 DIV {
   text-align: left;
