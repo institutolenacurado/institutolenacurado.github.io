@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 305,
+    "uniqCompNum": 307,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -1988,6 +1988,39 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Quem Somos?",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>O \"Lena Curado Institut\" é uma centro terapeitico, propriedade da Helena Curado que procura responder aos interesses dos educandos e às necessidades do tecido empresarial, disponibilizamos-lhe a formacao e informação necessária na area de desenvolvimento humano e tambem o acompanhamento destes percursos educativos e formativos. Tem como Missão capacitar cidadãos para as mudancas da sociedade e tambem para o mercado do trabalho procurando, sempre, ajustar a sua formação quer nas áreas do conhecimento quer nas aptidões e atitudes de cada indivíduo. Por outro lado, caminhar a par das necessidades do mercado cada vez mais globalizado e que exige das empresas um perfil de colaborador totalmente inovador.</p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-8h"
         },
         {
           "_styles": {
@@ -6292,7 +6325,7 @@
             }
           },
           "title": "LENA CURADO",
-          "text": "É diretora e sócio-fundadora do Lena Curado Institut para o Desenvolvimento Integral do Ser humano, autora do livro “Viver Melhor Definitivamente” <br>e dos CDs: “Caminho da prosperidade” e “Motivação para todos”.<br><br>Lena Curado é International Master Coach, Trainer e Palestrante. Realiza palestras, seminários e cursos em várias organizações. Tem formações completas em COACHING e PNL é instrutora em Desenvolvimento Humano. Criadora e mantenedora de diferentes  cursos com base na PNL, LDA e Hipnose!<br><br>Seu alto poder de comunicação transforma as suas palestras e treinamentos em conhecimentos práticos para aplicação imediata, gerando resultados positivos que impactam o ambiente de trabalho, equipes e clientes. <br>",
+          "text": "É diretora e sócio-fundadora do Lena Curado Institut para o Desenvolvimento Integral do Ser humano, autora do livro “Viver Melhor Definitivamente” <br>e dos CDs: “Caminho da prosperidade” e “Motivação para todos”.<br><br>Lena Curado é International Master Coach, Trainer e Palestrante. Realiza palestras, seminários e cursos em várias organizações. Tem formações completas em COACHING e PNL é instrutora em Desenvolvimento Humano. Criadora e mantenedora de diferentes  cursos com base na PNL, LDA e Hipnose!<br><br>Seu alto poder de comunicação transforma as suas palestras e treinamentos em conhecimentos práticos para aplicação imediata, gerando resultados positivos que impactam o ambiente de trabalho, equipes e individualidades. <br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -6412,7 +6445,7 @@
               "font-size": "22px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "23px"
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -6434,7 +6467,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">\" Quero ajudar você a elevar sua frequência vibracional e remover as crenças limitantes que te impedem de ter uma vida próspera e feliz. Com ferramentas simples, ajudo você a conhecê-lo melhor, divirta-se e sinta-se capaz de obter tudo o que você propõe rapidamente. \" \n</span><div><span style=\"font-weight: normal;\">Seja muito bem vinda(o)!</span></div>",
+          "title": "<span style=\"font-weight: normal;\">\" Quero ajudar-lhe a elevar sua frequência vibracional e remover as crenças limitantes que te impedem de ter uma vida próspera e feliz. Com ferramentas simples, ajudo a conhecer-se melhor, divirta-se e sinta-se capaz de obter tudo o que você se propõe rapidamente. \" \n</span><div><span style=\"font-weight: normal;\">Seja muito bem vinda(o)!</span></div>",
           "text": "Lena Curado",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -6762,7 +6795,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>\"Gestão de Conflitos - STOP\"</b></p><p><b><a href=\"tempoparaquetequero.html\" target=\"_blank\">\"Tempo para que te quero\"</a></b></p><p><b>\"Programação Neurolinguística - PNL\"</b></p><p><b>\"Atendimento 10 Estrelas\"</b></p><p><b>\"Transacção de carreira\"</b></p><p><b>\"Etiqueta Social\"</b></p><p><b>\"Sistema Kamban\"</b></p><p><b><a href=\"tenhoopoder.html\" target=\"_blank\">\"Eu tenho o poder na minha &nbsp;mão\"</a></b></p><p><b>\"Acompanhar os tempos\"</b></p><p><b>\"Emagrecer com Saúde\"</b></p>",
+          "text": "<p><b>Cursos disponiveis a verde</b></p><p><b><br></b></p><p><b>\"Gestão de Conflitos - STOP\"</b></p><p><b><a href=\"tempoparaquetequero.html\" target=\"_blank\">\"Tempo para que te quero\"</a></b></p><p><b>\"Programação Neurolinguística - PNL\"</b></p><p><b>\"Atendimento 10 Estrelas\"</b></p><p><b>\"Transacção de carreira\"</b></p><p><b>\"Etiqueta Social\"</b></p><p><b>\"Sistema Kamban\"</b></p><p><b><a href=\"tenhoopoder.html\" target=\"_blank\">\"Eu tenho o poder na minha &nbsp;mão\"</a></b></p><p><b>\"Acompanhar os tempos\"</b></p><p><b>\"Emagrecer com Saúde\"</b></p>",
           "_tags": [
             "Layout"
           ],

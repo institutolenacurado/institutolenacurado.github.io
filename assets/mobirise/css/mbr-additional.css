@@ -1005,6 +1005,10 @@ h6,
   font-size: 20px;
   font-family: 'Montserrat', sans-serif;
 }
+#header3-8i .mbr-section-title,
+#header3-8i .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-9 .mbr-section-title,
 #header3-9 .mbr-section-subtitle {
   text-align: center;
@@ -2075,7 +2079,7 @@ h6,
   font-size: 22px;
 }
 #msg-box8-86 .mbr-section-title SPAN {
-  font-size: 23px;
+  font-size: 20px;
 }
 #features7-8g .card-subtitle {
   color: #bcbcbc;
