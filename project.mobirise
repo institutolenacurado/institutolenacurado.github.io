@@ -6294,7 +6294,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "58",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-844x1080.jpg",
             "parallax": true,
@@ -6330,7 +6330,7 @@
             }
           },
           "title": "LENA CURADO",
-          "text": "É diretora e sócio-fundadora do Lena Curado Institut para o Desenvolvimento Integral do Ser humano, autora do livro “Viver Melhor Definitivamente” <br>e dos CDs: “Caminho da prosperidade” e “Motivação para todos”.<br><br><br><br><br>",
+          "text": "É diretora e sócio-fundadora do Lena Curado Institut para o Desenvolvimento Integral do Ser humano, autora do livro \"Lapida a tua pedra bruta\"<br>e dos CDs: “Caminho da prosperidade” e “Motivação para todos”.<br><br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -6348,143 +6348,6 @@
               "text-align": "left"
             }
           }
-        },
-        {
-          "_inherit": "features4",
-          "_params": {
-            "showImages": false,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "0",
-            "paddingBottom": 2,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "_tags": [
-            "Layout"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            },
-            "H4": {
-              "color": "#ffffff"
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Lena Curado é International Master Coach, Trainer e Palestrante. Realiza palestras, seminários e cursos em várias organizações. Tem formações completas em COACHING e PNL é instrutora em Desenvolvimento Humano. Criadora e mantenedora de diferentes cursos com base na PNL, LDA e Hipnose!",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Palestrante, Coach, Treinadora de PNL e Coaching com certificao internacional par o treinamento e terapia \" The Coaching clinic\" consultora em panorama social, Autora e coeditora de livro \"Lapida a tua pedra bruta\". Ex-empresaria na Suica com experiencia em mais de 18 anos de gestao e recursos humanos.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Seu alto poder de comunicação transforma as suas palestras e treinamentos em conhecimentos práticos para aplicação imediata, gerando resultados positivos que impactam o ambiente de trabalho, equipes e individualidades. ",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_name": "features7",
-          "_anchor": "features7-8k"
         },
         {
           "_styles": {
