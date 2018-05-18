@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lena Curado Institute",
-    "currentPage": "quemsomos.html",
+    "currentPage": "lenacuradoinstitut.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,7 +31,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 309,
+    "uniqCompNum": 310,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-300-128x128.png",
@@ -7909,7 +7909,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "58",
+            "imageSize": "36",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-844x1080.jpg",
             "parallax": true,
@@ -7945,7 +7945,7 @@
             }
           },
           "title": "LENA CURADO",
-          "text": "É diretora e sócio-fundadora do Lena Curado Institut para o Desenvolvimento Integral do Ser humano, autora do livro \"Lapida a tua pedra bruta\"<br>e dos CDs: “Caminho da prosperidade” e “Motivação para todos”.<br><br><br><br><br>",
+          "text": "É diretora e sócio-fundadora do Lena Curado Institut para o Desenvolvimento Integral do Ser humano, Coach, Palestrante.<br><br>Lena Curado é Estrategista Empresarial, Treinador Emocional e NLP Practitioner. Ela é especialista em Relacionamento Humano e Solução de Problemas, e atua nas diferentes áreas que envolvem Gestão Empresarial, Liderança e Mudanças de Comportamento.\n<br>\n<br>Ela também é Mentor Emocional e atua na formação de Sucessão Empresarial, ajudando a mudar, formar e propagar a Cultura Empresarial necessária.\n<br>​\n<br>Seu trabalho é ajudar pessoas e enpresas nas áreas Emocional, Profissional, Mental e Financeira, através de uma comunicação digital profissional e acessível.<br><br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -8090,7 +8090,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">\" Quero ajudar-lhe a elevar sua frequência vibracional e remover as crenças limitantes que te impedem de ter uma vida próspera e feliz. Com ferramentas simples, ajudo a conhecer-se melhor, divirta-se e sinta-se capaz de obter tudo o que você se propõe rapidamente. \" \n</span><div><span style=\"font-weight: normal;\">Seja muito bem vinda(o)!</span></div>",
+          "title": "<span style=\"font-weight: normal;\">\" Quero ajudar-lhe a elevar sua frequência vibracional e remover as crenças limitantes que te impedem de ter uma vida próspera e feliz. Com ferramentas simples, ajudo a conhecer-se melhor. </span><br><span style=\"font-weight: normal;\">Divirta-se e sinta-se capaz de obter tudo o que você se propõe rapidamente. \" \n</span><div><span style=\"font-weight: normal;\">Seja muito bem vinda(o)!</span></div>",
           "text": "Lena Curado",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -8098,6 +8098,58 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-86"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "41",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/instituto-de-desenvolvimento-lena-curado-500x173.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-8l"
         },
         {
           "_inherit": "features4",
